@@ -1,0 +1,39 @@
+<players root="resources/gfx/characters/costumes/" portraitroot="resources/gfx/ui/boss/" bigportraitroot="resources/gfx/ui/stage/">
+    <!-- The Item IDs of 238 & 239 is 
+        the golden key for mega satan. -->
+	<player id="0" name="Arac" skin="isaac/character_001_isaac.png" costume="15" hp="0" bombs="1" trinket="61" keys="1" coins="1" card="27" armor="15" items="255,208,170,234,292,275" portrait="PlayerPortrait_01_Isaac_Char.png" bigportrait="PlayerPortraitBig_01_Isaac_Char.png" skinColor="-1" />
+
+	<player id="1" name="Antipater" skin="magdalene/character_002_magdalene.png" costume="7" hp="0" armor="15" bombs="1" keys="1" coins="1" items="255,286,251,245,208" trinket="45" card="5" portrait="PlayerPortrait_02_Magdalene.png" bigportrait="PlayerPortraitBig_02_Magdalene.png" skinColor="-1" />
+
+	<player id="2" name="Drake" skin="character_003_cain.png" bombs="1" keys="1" coins="1" costume="8" hp="0" armor="15"items="255,208,195,102,252,75,343,150,264,117,70,143,345,14" card="11" trinket="44" portrait="PlayerPortrait_03_Cain.png" bigportrait="PlayerPortraitBig_03_Cain.png" skinColor="-1" />
+
+	<player id="3" name="Xaphan" skin="judas/character_004_judas.png" costume="9" black="0" bombs="1" keys="1" coins="1" items="255,208,196,116,63,311" portrait="PlayerPortrait_04_Judas.png" card="18" trinket="3" bigportrait="PlayerPortraitBig_04_Judas.png" skinColor="-1" />
+
+	<player id="4" name="The Soul" skin="character_006_bluebaby.png" hp="0" armor="15" bombs="1" keys="1" coins="1" items="255,222,208,64,289,246,139,32,74,105" trinket="39" card="19" portrait="PlayerPortrait_06_BlueBaby.png" bigportrait="PlayerPortraitBig_06_Bluebaby.png" skinColor="2" />
+
+	<player id="5" name="Michael" skin="eve/character_005_eve.png" costume="10" hp="0" armor="5" bombs="1" keys="1" coins="1" black="0" items="264,117,255,208,122,104,8" card="4" trinket="31" portrait="PlayerPortrait_05_Eve.png" bigportrait="PlayerPortraitBig_05_Eve.png" skinColor="-1" />
+
+	<player id="6" name="Gideon" skin="samson/character_007_samson.png" costume="13" armor="3" hp="4" bombs="1" keys="1" coins="1" items="248,255,82,12,53,157,109,330,3,94,135,96,224" card="10" trinket="52" portrait="PlayerPortrait_07_Samson.png" bigportrait="PlayerPortraitBig_07_Samson.png" skinColor="-1" />
+
+	<player id="7" name="Adra" skin="azazel/character_008_azazel.png" costume="11" hp="0" bombs="1" keys="1" coins="1" black="9" items="248,51,255,160,217,103,329,224,261,6,330,208,310" trinket="10" card="39" portrait="PlayerPortrait_08_Azazel.png" bigportrait="PlayerPortraitBig_08_Azazel.png" skinColor="1" />
+
+	<player id="8" name="The Blind" skin="lazarus/character_009_lazarus.png" hp="0" armor="15" bombs="1" keys="1" coins="1" items="255,7,34,208,151" card="6" trinket="37" portrait="PlayerPortrait_09_Lazarus.png" bigportrait="PlayerPortraitBig_09_Lazarus.png" skinColor="-1" />
+
+	<player id="9" name="The Masked" skin="eden/character_009_eden.png" costume="12" bombs="1" keys="1" coins="1" items="255,208,221" card="22" armor="15" portrait="PlayerPortrait_09_Eden.png" bigportrait="PlayerPortraitBig_09_Eden.png" skinColor="-1">
+		<hair gfx="eden/edenhair/mask1.png" />
+		<hair gfx="eden/edenhair/mask2.png" />
+		<hair gfx="eden/edenhair/mask3.png" />
+		<hair gfx="eden/edenhair/mask4.png" />
+		<hair gfx="eden/edenhair/mask5.png" />
+		<hair gfx="eden/edenhair/mask6.png" />
+		<hair gfx="eden/edenhair/mask7.png" />
+		<hair gfx="eden/edenhair/mask8.png" />
+		<hair gfx="eden/edenhair/mask9.png" />
+		<hair gfx="eden/edenhair/mask10.png" />
+	</player>
+
+	<player id="10" name="The Sacred" skin="character_012_thelost.png" items="11,11,313,182,255,58,208,51" trinket="27" card="40" hp="0" armor="1" coins="1" keys="1" bombs="1" portrait="PlayerPortrait_12_TheLost.png" bigportrait="PlayerPortraitBig_12_TheLost.png" skinColor="0" />
+
+	<player id="11" name="The Blind" skin="lazarus/character_010_lazarus2.png" hp="6" portrait="PlayerPortrait_10_Lazarus2.png" items="214,208" bigportrait="PlayerPortraitBig_10_Lazarus2.png" skinColor="-1" />
+	<player id="12" name="Black Judas" skin="judas/character_013_blackJudas.png"  black="12" portrait="PlayerPortrait_BlackJudas.png" bigportrait="PlayerPortraitBig_BlackJudas.png" skinColor="1" />
+</players>

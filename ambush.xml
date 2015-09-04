@@ -1,0 +1,559 @@
+<ambushRoom>
+<baseWave>
+		<stage id="1">
+			<wave>
+				<enemy type="226" variant="0" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="30" variant="0" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="34" variant="0" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="2">
+			<wave>
+				<enemy type="35" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="55" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="41" variant="0" count="8"/>
+			</wave>
+            <wave>
+				<enemy type="39" variant="1" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="3">
+			<wave>
+				<enemy type="38" variant="0" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="90" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="89" variant="0" count="2" chunks="9"/>
+			</wave>
+            <wave>
+				<enemy type="92" variant="0" count="6"/>
+			</wave>
+            <wave>
+				<enemy type="54" variant="0" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="4">
+			<wave>
+				<enemy type="207" variant="1" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="216" variant="0" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="67" variant="0" count="6"/>
+			</wave>
+            <wave>
+				<enemy type="220" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+	</baseWave>
+	<altWave>
+		<stage id="1">
+			<wave>
+				<enemy type="206" variant="0" count="4"/>
+                <enemy type="207" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="94" variant="0" count="14"/>
+			</wave>
+			<wave>
+				<enemy type="39" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="2">
+			<wave>
+				<enemy type="91" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="92" variant="0" count="6"/>
+                <enemy type="93" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="26" variant="0" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="3">
+			<wave>
+				<enemy type="229" variant="0" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="34" variant="0" count="12"/>
+			</wave>
+			<wave>
+				<enemy type="41" variant="0" count="10"/>
+			</wave>
+            <wave>
+				<enemy type="39" variant="2" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="4">
+			<wave>
+				<enemy type="219" variant="0" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="69" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="241" variant="0" count="16"/>
+			</wave>
+            <wave>
+				<enemy type="252" variant="2" count="8"/>
+			</wave>
+            <wave>
+				<enemy type="253" variant="0" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+	</altWave>
+	<secBaseWave>
+		<stage id="1">
+			<wave>
+				<enemy type="208" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="244" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="217" variant="0" count="10"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="2">
+			<wave>
+				<enemy type="227" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="229" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="240" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="3">
+			<wave>
+				<enemy type="227" variant="0" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="220" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="252" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+	</secBaseWave>
+	<secAltWave>
+		<stage id="1">
+			<wave>
+				<enemy type="10" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="12" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="208" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="2">
+			<wave>
+				<enemy type="244" variant="0" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="255" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="239" variant="0" count="2" chunks="3"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="3">
+			<wave>
+				<enemy type="41" variant="0" count="8"/>
+			</wave>
+			<wave>
+				<enemy type="213" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="209" variant="0" count="6"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+	</secAltWave>
+</ambushRoom>
+<bossAmbushRoom>
+	<baseWave>
+		<stage id="1">
+		<wave>
+			<enemy type="20" variant="0" count="1"/>
+		</wave>
+		<wave>
+			<enemy type="19" variant="0" count="2" chunks="5"/>
+		</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="2">
+			<wave>
+				<enemy type="28" variant="0" count="2" chunks="4"/>
+				<enemy type="23" variant="0" count="3"/>
+			</wave>
+			<wave>
+				<enemy type="68" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="3">
+			<wave>
+				<enemy type="69" variant="0" count="3"/>
+			</wave>
+			<wave>
+				<enemy type="43" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="4">
+			<wave>
+				<enemy type="71" variant="0" count="3"/>
+			</wave>
+			<wave>
+				<enemy type="69" variant="0" count="4"/>
+			</wave>
+			<wave>
+				<enemy type="28" variant="0" count="3" chunks="3"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+	</baseWave>
+	<altWave>
+	</altWave>
+	<secBaseWave>
+		<stage id="1">
+			<wave>
+				<enemy type="62" variant="0" count="1"/>
+			</wave>
+			<wave>
+				<enemy type="237" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="2">
+			<wave>
+				<enemy type="264" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="262" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="3">
+			<wave>
+				<enemy type="262" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="67" variant="1" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+        <stage id="4">
+            <wave><!-- Godly Oob -->
+                <enemy type="224" variant="0" count="3"/>
+            </wave>
+            <wave><!-- Godly Dark Maw-->
+                <enemy type="225" variant="0" count="3"/>
+            </wave>
+            <wave><!-- Godly Psychic Maw -->
+                <enemy type="26" variant="2" count="3"/>
+            </wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+        </stage>
+	</secBaseWave>
+	<secAltWave>
+		<stage id="1">
+			<wave>
+				<enemy type="261" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="79" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="2">
+			<wave>
+				<enemy type="71" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="260" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+		<stage id="3">
+			<wave>
+				<enemy type="267" variant="0" count="2"/>
+			</wave>
+			<wave>
+				<enemy type="69" variant="0" count="3"/>
+			</wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+		</stage>
+        <stage id="4">
+            <wave><!-- Godly -->
+                <enemy type="26" variant="2" count="3"/>
+            </wave>
+            <wave><!-- Godly -->
+                <enemy type="224" variant="0" count="3"/>
+            </wave>
+            <wave><!-- Godly -->
+                <enemy type="225" variant="0" count="3"/>
+            </wave>
+			<wave>
+				<enemy type="5" variant="100" count="1"/>
+			</wave>
+        </stage>
+	</secAltWave>
+</bossAmbushRoom>
+<bossrush>
+	<wave><!-- 1 -->
+		<enemy type="46" variant="1" count="5"/>
+	</wave>
+    <wave><!-- 2 -->
+		<enemy type="47" variant="1" count="5"/>
+	</wave>
+    <wave><!-- 3 -->
+		<enemy type="48" variant="1" count="5"/>
+	</wave>
+    <wave><!-- 4 -->
+		<enemy type="49" variant="1" count="5"/>
+	</wave>
+    <wave><!-- 5 -->
+		<enemy type="50" variant="1" count="5"/>
+	</wave>
+    <wave><!-- 6 -->
+		<enemy type="51" variant="1" count="5"/>
+	</wave>
+    <wave><!-- 7 -->
+		<enemy type="52" variant="1" count="5"/>
+	</wave>
+    <wave><!-- 8 -->
+		<enemy type="46" variant="2" count="5"/>
+        <enemy type="38" variant="2" count="5"/>
+	</wave>
+    <wave><!-- 9 -->
+		<enemy type="71" variant="0" count="3"/>
+		<enemy type="71" variant="1" count="3"/>
+        <enemy type="72" variant="0" count="3"/>
+		<enemy type="72" variant="1" count="3"/>
+	</wave>
+    <wave><!-- 10 -->
+		<enemy type="19" variant="0" count="10" chunks="5"/>
+	</wave>
+    <wave><!-- 11 -->
+		<enemy type="19" variant="1" count="5" chunks="12"/>
+	</wave>
+    <wave><!-- 12 -->
+		<enemy type="264" variant="0" count="3"/>
+		<enemy type="265" variant="1" count="3"/>
+	</wave>
+    <wave><!-- 13 -->
+		<enemy type="81" variant="0" count="8"/>
+	</wave>
+    <wave><!-- 14 -->
+		<enemy type="28" variant="0" count="12" chunks="3" />
+	</wave>
+    <wave><!-- 15 -->
+		<enemy type="43" variant="0" count="3"/>
+        <enemy type="43" variant="1" count="3"/>
+	</wave>
+    <wave><!-- 16 -->
+		<enemy type="20" variant="0" count="10"/>
+	</wave>
+    <wave><!-- 17 -->
+		<enemy type="46" variant="0" count="4"/>
+        <enemy type="47" variant="0" count="4"/>
+        <enemy type="48" variant="0" count="4"/>
+        <enemy type="49" variant="0" count="4"/>
+        <enemy type="50" variant="0" count="4"/>
+        <enemy type="51" variant="0" count="4"/>
+        <enemy type="52" variant="0" count="4"/>
+	</wave>
+    <wave><!-- 18 -->
+		<enemy type="46" variant="1" count="2"/>
+        <enemy type="47" variant="1" count="2"/>
+        <enemy type="48" variant="1" count="2"/>
+        <enemy type="49" variant="1" count="2"/>
+        <enemy type="50" variant="1" count="2"/>
+        <enemy type="51" variant="1" count="2"/>
+        <enemy type="52" variant="1" count="2"/>
+	</wave>
+    <wave><!-- 19 -->
+		<enemy type="69" variant="0" count="7"/>
+	</wave>
+    <wave><!-- 20 -->
+		<enemy type="74" variant="0" count="6"/>
+	</wave>
+    <wave><!-- 21 -->
+		<enemy type="63" variant="0" count="2"/>
+        <enemy type="64" variant="0" count="2"/>
+        <enemy type="65" variant="0" count="2"/>
+        <enemy type="65" variant="1" count="2"/>
+        <enemy type="66" variant="0" count="2"/>
+	</wave>
+    <wave><!-- 22 -->
+        <enemy type="19" variant="1" count="1" chunks="75"/>
+    </wave>
+    <wave><!-- 23 -->
+        <enemy type="79" variant="0" count="5"/>
+    </wave>
+    <wave><!-- 24 -->
+        <enemy type="79" variant="1" count="5"/>
+    </wave>
+    <wave><!-- 25 -->
+        <enemy type="79" variant="2" count="5"/>
+    </wave>
+    <wave><!-- 26 -->
+        <enemy type="68" variant="0" count="3"/>
+    </wave>
+    <wave><!-- 27 -->
+        <enemy type="68" variant="1" count="3"/>
+    </wave>
+    <wave><!-- 28 -->
+        <enemy type="67" variant="0" count="4"/>
+        <enemy type="67" variant="1" count="4"/>
+    </wave>
+    <wave><!-- 29 -->
+        <enemy type="62" variant="0" count="15"/>
+    </wave>
+    <wave><!-- 30 -->
+        <enemy type="62" variant="1" count="5"/>
+    </wave>
+    <wave><!-- 31 -->
+        <enemy type="36" variant="0" count="1"/>
+        <enemy type="99" variant="0" count="5"/>
+    </wave>
+    <wave><!-- 32 -->
+        <enemy type="28" variant="1" count="12" chunks="3" />
+    </wave>
+    <wave><!-- 33 -->
+        <enemy type="28" variant="2" count="5" chunks="4" />
+    </wave>
+    <wave><!-- 34 -->
+        <enemy type="97" variant="1" count="3" />
+        <enemy type="98" variant="1" count="3" />
+    </wave>
+    <wave><!-- 35 -->
+        <enemy type="69" variant="1" count="3"/>
+    </wave>
+    <wave><!-- 36 -->
+        <enemy type="100" variant="0" count="6"/>
+        <enemy type="100" variant="1" count="3"/>
+    </wave>
+    <wave><!-- 37 -->
+        <enemy type="101" variant="0" count="3"/>
+    </wave>
+    <wave><!-- 38 -->
+        <enemy type="101" variant="1" count="3"/>
+    </wave>
+    <wave><!-- 39 -->
+        <enemy type="260" variant="0" count="5"/>
+    </wave>
+    <wave><!-- 40 -->
+        <enemy type="261" variant="0" count="5"/>
+    </wave>
+    <wave><!-- 41 -->
+        <enemy type="262" variant="0" count="4"/>
+    </wave>
+    <wave><!-- 42 -->
+        <enemy type="263" variant="0" count="4"/>
+    </wave>
+    <wave><!-- 43 -->
+        <enemy type="267" variant="0" count="4"/>
+    </wave>
+    <wave><!-- 44 -->
+        <enemy type="268" variant="0" count="4"/>
+    </wave>
+    <wave><!-- 45-->
+        <enemy type="269" variant="0" count="8"/>
+    </wave>
+    <wave><!-- 46 -->
+        <enemy type="271" variant="0" count="5"/>
+    </wave>
+    <wave><!-- 47 -->
+        <enemy type="272" variant="0" count="3"/>
+    </wave>
+    <wave><!-- 48 -->
+        <enemy type="224" variant="0" count="7"/>
+    </wave>
+    <wave><!-- 49 -->
+        <enemy type="225" variant="0" count="7"/>
+    </wave>
+    <wave><!-- 50 -->
+        <enemy type="26" variant="2" count="7"/>
+    </wave>
+</bossrush>

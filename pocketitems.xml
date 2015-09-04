@@ -1,0 +1,72 @@
+<pocketitems>
+	<card id="0" name="NULL" />
+	<card description="The Fool" hud="00_TheFool" id="1" name="Act 0 - The Demon's Trick" />
+	<card description="The Magician" hud="01_TheMagician" id="2" name="Act I - Magnet of Pain" />
+	<card description="The Highest Priestess" hud="02_TheHighPriestess" id="3" name="Act II - Crushed" />
+	<card description="The Empress" hud="03_TheEmpress" id="4" name="Act III - Revenge" />
+	<card description="The Emperor" hud="04_TheEmperor" id="5" name="Act IV - The Fight" />
+	<card description="The Hierophant" hud="05_TheHierophant" id="6" name="Act V - Life Aid" />
+	<card description="The Lovers" hud="06_TheLovers" id="7" name="Act VI - Feeling Loved" />
+	<card description="The Chariot" hud="07_TheChariot" id="8" name="Act VII - Into the Sunset" />
+	<card description="The Justice" hud="08_TheJustice" id="9" name="Act VIII - Breakfast" />
+	<card description="The Hermit" hud="09_TheHermit" id="10" name="Act IX - The Merchant" />
+	<card description="Wheel of Fortune" hud="10_WheelOfFortune" id="11" name="Act X - The Deal of Luck" />
+	<card description="Strength" hud="11_Strength" id="12" name="Act XI - The Inner Shadow" />
+	<card description="The Hanged Man" hud="12_TheHangedMan" id="13" name="Act XII - Failure" />
+	<card description="Death" hud="13_Death" id="14" name="Act XIII - Tears" />
+	<card description="Temperance" hud="14_Temperance" id="15" name="Act XIV - Vault of Hearts" />
+	<card description="The Devil" hud="15_TheDevil" id="16" name="Act XV - Void of Love" />
+	<card description="The Tower" hud="16_TheTower" id="17" name="Act XVI - Torn Apart" />
+	<card description="The Stars" hud="17_TheStars" id="18" name="Act XVII - Far, Far Away" />
+	<card description="The Moon" hud="18_TheMoon" id="19" name="Act XVIII - The Lost" />
+	<card description="The Sun" hud="19_TheSun" id="20" name="Act XIX - New Beginning" />
+	<card description="Judgement" hud="20_Judgement" id="21" name="Act XX - The Judge" />
+	<card description="The World" hud="21_TheWorld" id="22" name="Act XXI - Global Impact" />
+	<card description="Item multiplier-Bomb" hud="25_TwoOfClubs" id="23" name="Act XXII - Boom!" />
+	<card description="Item multiplier-Money" hud="26_TwoOfDiamonds" id="24" name="Act XXIII - Gems" />
+	<card description="Item multiplier-Key" hud="24_TwoOfSpades" id="25" name="XXIV - Unlocked Doors" />
+	<card description="Item multiplier-Heart" hud="23_TwoOfHearts" id="26" name="XXV - Health comes first" />
+	<card description="The Joker" hud="22_TheJoker" id="27" name="Corrupted Act" />
+	<rune achievement="89" description="Destruction" id="28" name="Hagalaz" />
+	<rune achievement="90" description="Abundance" id="29" name="Jera" />
+	<rune achievement="91" description="Passage" id="30" name="Ehwaz" />
+	<rune achievement="92" description="Purity" id="31" name="Dagaz" />
+	<rune achievement="93" description="Vision" id="32" name="Ansuz" />
+	<rune achievement="94" description="Change" id="33" name="Perthro" />
+	<rune achievement="95" description="Companionship" id="34" name="Berkano" />
+	<rune achievement="96" description="Resistance" id="35" name="Algiz" />
+	<card achievement="97" description="Chaos Card" hud="28_ChaosCard" id="36" name="Act XXVI - The Chaos" />
+	<card achievement="98" description="Credit Card" hud="29_CreditCard" id="37" name="Act XXVII - The Greed" />
+	<card achievement="99" description="Rules Card" hud="30_RulesCard" id="38" name="Act XXVIII - Ruled Out" />
+	<card achievement="100" description="Card Against Humanity" hud="31_CardAgainstHumanity" id="39" name="Act XXIX - I'm finished" />
+	<card achievement="120" description="Suicide King" hud="27_SuicideKing" id="40" name="Act XXX - The Finale" />
+
+	<pilleffect id="0" description="Oops, that one slipped!" name="Bad Gas" />
+	<pilleffect id="1" description="OUCH!!" name="Bad Trip" />
+	<pilleffect id="2" description="2 much blue 4 u" name="Balls of Steel" />
+	<pilleffect id="3" description="Flip flop SWAP" name="Bombs are Key" />
+	<pilleffect id="4" description="..." name="Explosive Diarrhea" />
+	<pilleffect id="5" description="Refreshing!" name="Full Health" />
+	<pilleffect id="6" description="This one wasn't nice..." name="Health Down" />
+	<pilleffect id="7" description="I like this one!" name="Health Up" />
+	<pilleffect id="8" description="Ugghhh my stomach hurts..." name="I Found Pills" />
+	<pilleffect id="9" description="I WANTED A BEARD ON THE BOTTOM OF MY HEAD" name="Puberty" />
+	<pilleffect id="10" description="It's... Beautiful..." name="Pretty Fly" />
+	<pilleffect id="11" description="I'm losing speed :(" name="Range Down" />
+	<pilleffect id="12" description="I'm gaining speed :D" name="Range Up" />
+	<pilleffect id="13" description="I'm losing speed :(" name="Speed Down" />
+	<pilleffect id="14" description="I'm gaining speed :D" name="Speed Up" />
+	<pilleffect id="15" description="I'm losing speed :(" name="Tears Down" />
+	<pilleffect id="16" description="I'm gaining speed :D" name="Tears Up" />
+	<pilleffect id="17" description="Eww I don't like this one" name="Luck Down" />
+	<pilleffect id="18" description="I feel kinda lucky tonight ;D" name="Luck Up" />
+	<pilleffect id="19" description="Where'd my stomach go?" name="Telepills" />
+	<pilleffect id="20" description="ENERGY BUNNY IS FUNNY" name="48 Hour Energy!" />
+	<pilleffect id="21" description="This is kinda unhealthy..." name="Hematemesis" />
+	<pilleffect id="22" description="Can't. Move. At. All." name="Paralysis" />
+	<pilleffect id="23" description="X-RAY VISION!!!" name="I can see forever!" />
+	<pilleffect id="24" description="Notice me senpai :3" name="Pheromones" />
+	<pilleffect id="25" description="No monsters please :(" name="Amnesia" />
+	<pilleffect id="26" description="Let's get it STARTED!" name="Lemon Party" />
+	<pilleffect id="27" description="I IZ A Wizard!" name="R U A Wizard?" />
+</pocketitems>

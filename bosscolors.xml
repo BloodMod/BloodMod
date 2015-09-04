@@ -1,0 +1,478 @@
+<bosscolors version="0">
+   <!-- ############# ANY BOSS WITH A COMMENT AFTER IT HAS BEEN ALTERED OR ADDED BY GODMODE ################ -->
+   <boss id="19" variant="0">
+      <color idx="3" />
+      <color idx="7" scale="1.15" hp="1.45" />
+   </boss>
+   <boss id="19" variant="1">
+      <color idx="16" scale="1.15" hp="1.25" />
+      <color idx="3" scale="1.05" hp="1.05" />
+      <color idx="21" scale="1.15" hp="1.25" />
+   </boss>
+   <boss id="20" variant="0">
+      <color idx="1" scale="0.75" hp="0.45" />
+      <color idx="2" scale="1.15" hp="1.25" />
+   </boss>
+   <boss id="28" variant="0">
+      <color idx="8" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Chub -->
+   <boss id="28" variant="1">
+      <color idx="4" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- C.H.A.D. -->
+   <boss id="28" variant="2">
+      <color idx="6" scale="1.35" hp="1.5" />
+      <color idx="22" scale="1.5" hp="2" />
+   </boss>
+   <!-- Carrion Queen -->
+   <boss id="36" variant="0">
+      <color idx="11" scale="1.11" />
+      <color idx="15" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Gurdy -->
+   <boss id="43" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="14" scale="0.8" />
+   </boss>
+   <!-- Monstro II -->
+   <boss id="43" variant="1">
+      <color idx="5" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Gish -->
+   <boss id="45" variant="0">
+      <color idx="7" scale="1" hp="1.23" />
+      <color idx="19" />
+      <color idx="15" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Mom -->
+   <boss id="62" variant="0">
+      <color idx="8" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.75" hp="0.8" />
+   </boss>
+   <!-- Pin -->
+   <boss id="62" variant="1">
+      <color idx="16" scale="1.15" hp="1.25" />
+      <color idx="6" scale="1.45" hp="1.75" />
+   </boss>
+   <!-- Scolex -->
+   <boss id="63" variant="0">
+      <color idx="7" />
+      <color idx="16" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- Famine -->
+   <boss id="64" variant="0">
+      <color idx="17" />
+      <color idx="21" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- Pestilence -->
+   <boss id="65" variant="0">
+      <color idx="16" scale="1.15" hp="1.25" />
+      <color idx="11" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- War -->
+   <boss id="66" variant="0">
+      <color idx="18" scale="1.15" hp="1.25" />
+      <color idx="14" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- Death -->
+   <boss id="66" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="21" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- Conquest -->
+   <boss id="67" variant="0">
+      <color idx="5" />
+      <color idx="6" scale="1.15" hp="1.25" />
+      <color idx="4" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- Duke of Flies -->
+   <boss id="67" variant="1">
+      <color idx="16" scale="1.15" hp="1.56" />
+      <color idx="19" scale="0.75" />
+      <color idx="14" scale="1.5" hp="1.9" />
+   </boss>
+   <!-- The Husk -->
+   <boss id="68" variant="0">
+      <color idx="12" scale="0.85" />
+      <color idx="13" />
+      <color idx="15" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Peep -->
+   <boss id="68" variant="1">
+      <color idx="3" />
+      <color idx="3" scale="1.5" hp="1.4" />
+   </boss>
+   <!-- The Bloat -->
+   <boss id="69" variant="0">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="15" scale="0.8" />
+   </boss>
+   <!-- Loki -->
+   <boss id="69" variant="1">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="15" scale="0.8" />
+   </boss>
+   <!-- Lokii -->
+   <boss id="71" variant="0">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.9" />
+   </boss>
+   <!-- Fistula -->
+   <boss id="72" variant="0">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.9" />
+   </boss>
+   <!-- Fistula -->
+   <boss id="73" variant="0">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.9" />
+   </boss>
+   <!-- Fistula -->
+   <boss id="71" variant="1">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.9" />
+   </boss>
+   <!-- Teratoma -->
+   <boss id="72" variant="1">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.9" />
+   </boss>
+   <!-- Teratoma -->
+   <boss id="73" variant="1">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.9" />
+   </boss>
+   <!-- Blastocyst -->
+   <boss id="74" variant="1">
+      <color idx="12" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.9" />
+   </boss>
+   <!-- Blastocyst -->
+   <boss id="75" variant="1">
+      <color idx="12" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.9" />
+   </boss>
+   <!-- Blastocyst -->
+   <boss id="76" variant="1">
+      <color idx="12" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.9" />
+   </boss>
+   <!-- Blastocyst -->
+   <boss id="78" variant="0">
+      <color idx="6" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Mom's Heart -->
+   <boss id="78" variant="0">
+      <color idx="9" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- It Lives -->
+   <boss id="79" variant="0">
+      <color idx="3" />
+      <color idx="4" />
+      <color idx="25" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Gemini -->
+   <boss id="81" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.8" />
+   </boss>
+   <!-- The Fallen -->
+   <boss id="81" variant="1">
+      <color idx="3" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Krampus -->
+   <boss id="82" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="9" scale="1.25" hp="1.3" />
+   </boss>
+   <!-- Headless Horseman -->
+   <boss id="83" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="9" scale="1.25" hp="1.3" />
+   </boss>
+   <!-- Headless Horseman Head -->
+   <boss id="98" variant="0">
+      <color idx="18" scale="1.15" hp="1.25" />
+   </boss>
+   <boss id="99" variant="0">
+      <color idx="21" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.58" hp="0.55" />
+   </boss>
+   <boss id="100" variant="0">
+      <color idx="18" />
+      <color idx="20" />
+   </boss>
+   <boss id="100" variant="1">
+      <color idx="18" scale="1.15" hp="1.25" />
+      <color idx="20" scale="0.75" hp="0.95" />
+   </boss>
+   <!-- The Wretched -->
+   <boss id="102" variant="0">
+      <color idx="2" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.8" />
+   </boss>
+   <!-- Isaac -->
+   <boss id="84" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.8" />
+   </boss>
+   <!-- Satan -->
+   <boss id="84" variant="10">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.8" />
+   </boss>
+   <!-- Satan Stomp -->
+   <boss id="271" variant="0">
+      <color idx="5" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.8" />
+   </boss>
+   <!-- Uriel -->
+   <boss id="272" variant="0">
+      <color idx="5" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.8" />
+   </boss>
+   <!-- Gabriel -->
+   <boss id="271" variant="1">
+      <color idx="8" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.75" hp="0.95" />
+   </boss>
+   <!-- Fallen Uriel -->
+   <boss id="272" variant="1">
+      <color idx="8" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.75" hp="0.95" />
+   </boss>
+   <!-- Fallen Gabriel -->
+   <boss id="46" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="5" scale="0.9" />
+   </boss>
+   <!-- Sloth -->
+   <boss id="46" variant="1">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="5" scale="0.9" />
+   </boss>
+   <!-- Super Sloth -->
+   <boss id="46" variant="0">
+      <color idx="1" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.9" />
+   </boss>
+   <!-- Ultra Pride -->
+   <boss id="38" variant="2">
+      <color idx="1" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.9" />
+   </boss>
+   <!-- Ultra Pride -->
+   <boss id="47" variant="0">
+      <color idx="3" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.9" />
+   </boss>
+   <!-- Lust -->
+   <boss id="47" variant="1">
+      <color idx="3" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.9" />
+   </boss>
+   <!-- Super Lust -->
+   <boss id="48" variant="0">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="6" scale="0.9" />
+   </boss>
+   <!-- Wrath -->
+   <boss id="48" variant="1">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="6" scale="0.9" />
+   </boss>
+   <!-- Super Wrath -->
+   <boss id="49" variant="0">
+      <color idx="6" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.9" />
+   </boss>
+   <!-- Gluttany -->
+   <boss id="49" variant="1">
+      <color idx="6" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.9" />
+   </boss>
+   <!-- Super Gluttany -->
+   <boss id="50" variant="0">
+      <color idx="13" scale="1.15" hp="1.25" />
+      <color idx="21" scale="0.9" />
+   </boss>
+   <!-- Greed -->
+   <boss id="50" variant="1">
+      <color idx="13" scale="1.15" hp="1.25" />
+      <color idx="21" scale="0.9" />
+   </boss>
+   <!-- Super Greed -->
+   <boss id="51" variant="0">
+      <color idx="7" scale="1.15" hp="1.25" />
+      <color idx="12" scale="0.9" />
+   </boss>
+   <!-- Envy -->
+   <boss id="51" variant="1">
+      <color idx="7" scale="1.15" hp="1.25" />
+      <color idx="12" scale="1" />
+   </boss>
+   <!-- Super Envy -->
+   <boss id="52" variant="0">
+      <color idx="13" scale="1.15" hp="1.25" />
+      <color idx="18" scale="0.95" />
+   </boss>
+   <!-- Pride -->
+   <boss id="52" variant="1">
+      <color idx="13" scale="1.15" hp="1.25" />
+      <color idx="18" scale="0.95" />
+   </boss>
+   <!-- Super Pride -->
+   <boss id="237" variant="1">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="22" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Gurgling (Boss) -->
+   <boss id="260" variant="0">
+      <color idx="7" scale="1.15" hp="1.25" />
+      <color idx="7" scale="1.65" hp="1.5" />
+   </boss>
+   <!-- Haunt -->
+   <boss id="261" variant="0">
+      <color idx="6" scale="0.8" />
+      <color idx="9" scale="1.15" hp="1.5" />
+   </boss>
+   <!-- Dingle -->
+   <boss id="262" variant="0">
+      <color idx="5" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.8" />
+   </boss>
+   <!-- Mega Maw -->
+   <boss id="263" variant="0">
+      <color idx="8" scale="1.15" hp="1.25" />
+      <color idx="9" scale="0.8" />
+   </boss>
+   <!-- The Gate -->
+   <boss id="264" variant="0">
+      <color idx="9" scale="0.8" />
+      <color idx="13" scale="1.35" hp="1.5" />
+   </boss>
+   <!-- Mega Fatty -->
+   <boss id="265" variant="0">
+      <color idx="15" scale="1.35" hp="1.5" />
+      <color idx="4" scale="0.8" />
+   </boss>
+   <!-- The Cage -->
+   <boss id="267" variant="0">
+      <color idx="21" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.8" />
+   </boss>
+   <!-- Dark One -->
+   <boss id="269" variant="0">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="7" scale="1.5" hp="1.65" />
+      <color idx="7" scale="0.8" />
+   </boss>
+   <!-- Polycephalus -->
+   <boss id="270" variant="0">
+      <color idx="5" scale="0.8" />
+      <color idx="2" scale="1.1" hp="1.2" />
+   </boss>
+   <!--GODMODE BOSSES-->
+   <boss id="267" variant="10">
+      <color idx="8" scale="1.15" hp="1.25" />
+      <color idx="7" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- The Nightmare -->
+   <boss id="269" variant="10">
+      <color idx="5" scale="1.15" hp="1.25" />
+      <color idx="4" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Shadow Snake -->
+   <boss id="237" variant="10">
+      <color idx="21" scale="1.15" hp="1.25" />
+      <color idx="3" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Megaworm -->
+   <boss id="71" variant="10">
+      <color idx="14" scale="1.15" hp="1.25" />
+      <color idx="13" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Mega Envy -->
+   <boss id="72" variant="10">
+      <color idx="14" scale="1.15" hp="1.25" />
+      <color idx="13" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Mega Envy -->
+   <boss id="73" variant="10">
+      <color idx="14" scale="1.15" hp="1.25" />
+      <color idx="13" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Mega Envy -->
+   <boss id="269" variant="11">
+      <color idx="15" scale="1.15" hp="1.25" />
+      <color idx="17" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Megacrawler -->
+   <boss id="272" variant="10">
+      <color idx="2" scale="1.15" hp="1.25" />
+      <color idx="20" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- The Guard -->
+   <boss id="69" variant="10">
+      <color idx="1" scale="1.15" hp="1.25" />
+      <color idx="18" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Molech -->
+   <boss id="69" variant="10">
+      <color idx="4" scale="1.15" hp="1.25" />
+      <color idx="5" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Void Eater -->
+   <boss id="62" variant="10">
+      <color idx="9" scale="1.15" hp="1.25" />
+      <color idx="2" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Void Eater -->
+   <boss id="62" variant="10">
+      <color idx="9" scale="1.15" hp="1.25" />
+      <color idx="2" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Spider Queen -->
+   <boss id="206" subtype="10">
+      <color idx="14" scale="1.15" hp="1.25" />
+      <color idx="12" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Blob -->
+   <boss id="221" subtype="10">
+      <color idx="14" scale="1.15" hp="1.25" />
+      <color idx="21" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Sacred Spirit -->
+   <boss id="222" subtype="10">
+      <color idx="9" scale="1.15" hp="1.25" />
+      <color idx="2" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Sacred Spirit -->
+   <boss id="222" subtype="11">
+      <color idx="9" scale="1.15" hp="1.25" />
+      <color idx="2" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Sacred Spirit -->
+   <boss id="222" subtype="12">
+      <color idx="9" scale="1.15" hp="1.25" />
+      <color idx="2" scale="0.85" hp="0.85" />
+   </boss>
+   <!-- Psy Guard -->
+   <boss id="253" subtype="10">
+      <color idx="13" scale="1.15" hp="1.25" />
+      <color idx="21" scale="0.95" hp="0.95" />
+   </boss>
+   
+   <!-- Xanaphos -->
+   <boss id="226" subtype="10">
+      <color idx="19" scale="0.95" hp="0.95" />
+      <color idx="5" scale="1.15" hp="1.25" />
+   </boss>
+   <!-- Xanaphos Baby -->
+   <boss id="207" subtype="10">
+      <color idx="19" scale="1.25" hp="1.35" />
+      <color idx="5" scale="0.95" hp="0.95" />
+   </boss>
+</bosscolors>

@@ -1,0 +1,44 @@
+<!--
+	Challenge Format:
+* name = challenge name
+* id = challenge id
+* startingitems = comma separated (nospace) item ids that will be added at the start
+* startingtrinkets = comma separated (nospace) trinket ids that will be added at the start (max 2)
+* startingpill = effect id of the starting pill (-1 for no pill | default)
+* startingcard = card id of the starting card (can include runes) (-1 for random tarot card, 0 for no card | default)
+* playertype = player type id for player type to start with (0 for Isaac | default)
+* endstage = the last stage of the challenge (use eLevelStage ids)
+* roomfilter = list of room ids to not be generated in challenge [Not all room ids can be used] (NORMAL - 1, Shop - 2, Error - 3, Treasure - 4, Boss - 5, Miniboss - 6, Secret - 7, SuperSecret - 8, Arcade - 9, Curse - 10, Challenge - 11, Library - 12, Sacrifice - 13, Devil - 14, Angel - 15, Dungeon - 16, Bossrush - 17, Isaacs - 18, Barren - 19, Chest - 20, Dice - 21, BMarket - 22).
+* cursefilter = bitmask for curses to be removed (Darkness = 1, Labyrinth = 2, Lost = 4, Unknown = 8, Cursed = 16)
+* getcurse = bitmask for curses to be forced (Same id's as curse filter)
+* achievements = list of achievement ids that are required to be able to play the challenge
+* altpath = alternative floor for light/dark path (isaac/satan)
+* canshoot = determines if player can shoot (true | default)
+* soulhp = add soul hp
+* blackhp = add black hp
+* maxdamage = maximal damage or more
+* minfirerate = minimal fire rate or less
+* minshotspeed = minimal shot speed or less
+--> 
+<challenges version="1">
+    <challenge name="Lost" id="1" endstage="3" playertype="11" getcurse="23" startingtrinkets="34" startingitems="54,21,246,16,116" />
+    <challenge name="Plop" id="2" startingitems="155,155,155,155,155,155,155,247" startingtrinkets="2" canshoot="false" endstage="6" roomfilter="2,4" playertype="11" />
+	<challenge name="Vortex" id="3" startingitems="330,341,32,153,233" startingtrinkets="9" endstage="8" roomfilter="2,4" playertype="6" />
+    <challenge name="Hero" id="4" startingitems="243,114,338,101" endstage="9" roomfilter="4" achievements="27" altpath="true" playertype="11" />
+    <challenge name="Cloudy" id="5" startingitems="187,187,187,187,187,187,187,20" canshoot="false" minshotspeed="true" endstage="8" roomfilter="2,4" achievements="1" playertype="11" />
+	<challenge name="Rings" id="6" startingitems="247,57,57,128,128,128,128,128,128,10,10,20" endstage="8" roomfilter="2,4" achievements="8" canshoot="false" playertype="11" />
+	<challenge name="Suicide" id="7" startingitems="229,29,30,31,149,5,106,81,20" endstage="6" roomfilter="2,4" altpath="true" playertype="8" achievements="80,34" />
+	<challenge name="Kitty" id="8" startingitems="133,134,81,134,212,187" endstage="10" roomfilter="2,4" achievements="65" minshotspeed="true" playertype="11" />
+    <challenge name="Creep" id="9" startingitems="308,231,214,266,73,73,207,207,269,172,172" endstage="6" roomfilter="2,4" achievements="11" canshoot="false" playertype="4" />
+ <challenge name="Godmode" id="10" startingitems="333,334,335" endstage="9" altpath="true" playertype="10" achievements="156" roomfilter="4,13" />
+    <challenge name="Cannon" id="11" startingitems="168,87,46,46,46,55" endstage="9" roomfilter="2,4" achievements="15,62,34,3" altpath="false" playertype="11" />
+    <challenge name="Flames" id="12" startingitems="257,289,256,344,149" startingtrinkets="50" endstage="8" roomfilter="2,4" playertype="11" />
+	<challenge name="Mother" id="13" startingitems="29,30,31,102,55,110,139,199,200,217,228" endstage="9" altpath="true" roomfilter="2,4" canshoot="true" playertype="11" />
+    <challenge name="Followed" id="14" startingitems="174,174,174,174,174,247" canshoot="false" endstage="6" roomfilter="2,4" playertype="11"/>
+	<challenge name="Shots" id="15" startingitems="13,14,345,143,70,4" endstage="6" roomfilter="2,4" playertype="11" />
+	<challenge name="Lasers" id="16" startingitems="87,68,152,3,244,330,55,55" endstage="6" roomfilter="2,4" playertype="11" />
+	<challenge name="Followed II" id="17" startingitems="318,113,113,113,113,113,247" canshoot="false" endstage="6" playertype="11" roomfilter="2,4" />
+	<challenge name="Blue Bomber" id="18" startingitems="223,40,106,273,223,256,220" endstage="6" playertype="4" canshoot="false" roomfilter="2,4" achievements="32" />
+	<challenge name="Descend" id="19" startingitems="230,82,4,10,113" endstage="10" roomfilter="2,4,7,8,9,15" cursefilter="2" canshoot="true" playertype="11" altpath="false" achievements="78" />
+    <challenge name="Ascend" id="20" startingitems="101,179,112,112,72,72,72,72,72,4,88,139" endstage="10" startingtrinkets="55,7" roomfilter="2,4,7,8,9,14" cursefilter="2" achievements="57" playertype="11" altpath="true"  />
+</challenges>
