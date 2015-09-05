@@ -20,10 +20,14 @@
 
 * 버그 제보는 아래 양식에 맞춰 이메일(iwt2hw@naver.com) 문의해주세요.
 
+----------
+
     플레이 캐릭터 :  
     하드/노말 여부 :  
     시드값 :  
     증상 :   
+
+----------
 
 * 그 외 기타 문의는 이메일(iwt2hw@naver.com) 또는 카카오톡(iwt2hw) 해주세요.
 
@@ -41,10 +45,14 @@
 
 * Inquires and reports regarding bugs should be sent to iwt2hw@naver.com following the form below.
 
+----------
+
     Playing character:  
     Hard/Normal:  
     Seed number:  
     Bug:  
+
+----------
 
 * Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 
