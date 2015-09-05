@@ -1,9 +1,5 @@
 # Blood Mod
 
-
-----------
-
-
 ## Description
 
 ### 한국어
