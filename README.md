@@ -1,263 +1,262 @@
-¡ØÀÌ ¸ğµåÀÇ ¸íÄªÀº ºí·¯µå ¸ğµå(Blood Mode) ÀÌ¸ç http://moddingofisaac.com/ Á¸ÀçÇÏ´Â ÀÏºÎ ¸ğµåµéÀÇ ¼Ò½º°¡ ÀÌ¿ëµÇ¾ú½À´Ï´Ù.
+# Blood Mod
 
-¡ØÀÌ ¸ğµå´Â ³­ÀÌµµ°¡ ±²ÀåÈ÷ ³ô°Ô ¼³Á¤µÇ¾î ÀÖ½À´Ï´Ù.
 
-¡ØÀÌ ¸ğµå´Â ¾ÆÇÁ¸®Ä«TV ÇÃ·§Æû ¿Ü¿¡µµ ¾îµğ¼­µçÁö ÀÚÀ¯·Ó°Ô ÇÃ·¹ÀÌ, ¼ÛÃâ °¡´ÉÇÕ´Ï´Ù.
+----------
 
-¡Ø¹«´Ü ¼öÁ¤, »ó¾÷Àû ÀÌ¿ëÀ» Àı´ë·Î ±İÇÏ¸ç ¹èÆ÷½Ã ²À ÀÌ ¸Ş¸ğÀåÀ» ¼öÁ¤ÇÏÁö ¾ÊÀºÃ¤·Î µ¿ºÀÇØÁÖ¼¼¿ä.
 
-¡Ø°ÔÀÓÀÇ ÀÚ¼¼ÇÑ Á¤º¸´Â ¾Æ·¡¸¦ È®ÀÎÇØÁÖ¼¼¿ä.
+## Description
 
-¡Ø¹ö±× Á¦º¸´Â ¾Æ·¡ ¾ç½Ä¿¡ ¸ÂÃç ÀÌ¸ŞÀÏ(iwt2hw@naver.com) ¹®ÀÇÇØÁÖ¼¼¿ä.
+### í•œêµ­ì–´
 
-ÇÃ·¹ÀÌ Ä³¸¯ÅÍ :
-ÇÏµå/³ë¸» ¿©ºÎ :
-½Ãµå°ª :
-Áõ»ó : 
+* ì´ ëª¨ë“œì˜ ëª…ì¹­ì€ ë¸”ëŸ¬ë“œ ëª¨ë“œ(Blood Mode) ì´ë©° http://moddingofisaac.com/ ì¡´ì¬í•˜ëŠ” ì¼ë¶€ ëª¨ë“œë“¤ì˜ ì†ŒìŠ¤ê°€ ì´ìš©ë˜ì—ˆìŠµë‹ˆë‹¤.
 
-¡Ø±× ¿Ü ±âÅ¸ ¹®ÀÇ´Â ÀÌ¸ŞÀÏ(iwt2hw@naver.com) ¶Ç´Â Ä«Ä«¿ÀÅå(iwt2hw) ÇØÁÖ¼¼¿ä.
+* ì´ ëª¨ë“œëŠ” ë‚œì´ë„ê°€ êµ‰ì¥íˆ ë†’ê²Œ ì„¤ì •ë˜ì–´ ìˆìŠµë‹ˆë‹¤.
 
-This mod is called the ºí·¯µå ¸ğµå(Blood Mode). We uitilized some sources from certain modes out of http://moddingofisaac.com/.
+* ì´ ëª¨ë“œëŠ” ì•„í”„ë¦¬ì¹´TV í”Œë«í¼ ì™¸ì—ë„ ì–´ë””ì„œë“ ì§€ ììœ ë¡­ê²Œ í”Œë ˆì´, ì†¡ì¶œ ê°€ëŠ¥í•©ë‹ˆë‹¤.
 
-The diffitulty of this mode is set to be extra hardcore.
+* ë¬´ë‹¨ ìˆ˜ì •, ìƒì—…ì  ì´ìš©ì„ ì ˆëŒ€ë¡œ ê¸ˆí•˜ë©° ë°°í¬ì‹œ ê¼­ ì´ ë©”ëª¨ì¥ì„ ìˆ˜ì •í•˜ì§€ ì•Šì€ì±„ë¡œ ë™ë´‰í•´ì£¼ì„¸ìš”.
 
-Feel free to play and stream this mode from different platforms including AfreecaTV.
+* ê²Œì„ì˜ ìì„¸í•œ ì •ë³´ëŠ” ì•„ë˜ë¥¼ í™•ì¸í•´ì£¼ì„¸ìš”.
 
-We forbid unconsulted modification or commercial application of this mode. In case of distribution, please include this text file.
+* ë²„ê·¸ ì œë³´ëŠ” ì•„ë˜ ì–‘ì‹ì— ë§ì¶° ì´ë©”ì¼(iwt2hw@naver.com) ë¬¸ì˜í•´ì£¼ì„¸ìš”.
 
-Check below for detailed description of the game.
+    í”Œë ˆì´ ìºë¦­í„° :  
+    í•˜ë“œ/ë…¸ë§ ì—¬ë¶€ :  
+    ì‹œë“œê°’ :  
+    ì¦ìƒ :   
 
-Inquires and reports regarding bugs should be sent to iwt2hw@naver.com following the form below.
-Playing character:
-Hard/Normal:
-Seed number:
-Bug:
+* ê·¸ ì™¸ ê¸°íƒ€ ë¬¸ì˜ëŠ” ì´ë©”ì¼(iwt2hw@naver.com) ë˜ëŠ” ì¹´ì¹´ì˜¤í†¡(iwt2hw) í•´ì£¼ì„¸ìš”.
 
-Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
+### English
 
-[Ver 1.94 ÆĞÄ¡³ëÆ®]
+* This mod is called the ë¸”ëŸ¬ë“œ ëª¨ë“œ(Blood Mode). We uitilized some sources from certain modes out of http://moddingofisaac.com/.
 
- -Ä³¸¯ÅÍ ¹ë·±½º
- ¡ÜCorruption : Left Hand Ãß°¡
- ¡ÜDope : Rotten Baby Á¦°Å
- ¡ÜThe Masked : Rubber Cement Ãß°¡ Magic Mush, Curved Horn Á¦°Å
+* The diffitulty of this mode is set to be extra hardcore.
 
- -¾ÆÀÌÅÛ ¹ë·±½º
- ¡ÜPyro, Skeleton Key, A Dollor ¸ğµç ÇÈ¾÷ 99 º¯°æ
- ¡ÜBook Of Shadow ÄğÅ¸ÀÓ 4 º¯°æ
- ¡ÜDead Bird µ¥¹ÌÁö 40 º¯°æ
+* Feel free to play and stream this mode from different platforms including AfreecaTV.
 
- -·¹¾î ¹× ºñÁß ¹ë·±½º
- ¡ÜBlack Candle, Starter Dack, Mom's Knife ·¹¾î ¾ÆÀÌÅÛ Ãß°¡
- ¡ÜBloody Lust ·¹¾î ¾ÆÀÌÅÛ ÇØÁ¦
+* We forbid unconsulted modification or commercial application of this mode. In case of distribution, please include this text file.
 
- -¹è¿­ ¹ë·±½º
- ¡Ü»¡°£ »óÀÚ : Black Candle, Pandora Box Ãß°¡
- ¡Ü¾Ç¸¶¹æ : Cube Of Meat, Lokie Horn, Pandora Box Ãß°¡
- ¡Üº¸½º¹æ : Cube Of Meat, Ball Of Band Ãß°¡
- ¡ÜÈ²±İ¹æ : Cube Of Meat, Ball Of Band, Ceremonial Robes, The Mark, The Fact Ãß°¡
- ¡ÜÃµ»ç¹æ : Mom's Eye, Dad Key, Hive Mind, Pyro, Skeleton Key, A Dollor, Pandora Box Ãß°¡
+* Check below for detailed description of the game.
 
+* Inquires and reports regarding bugs should be sent to iwt2hw@naver.com following the form below.
 
+    Playing character:  
+    Hard/Normal:  
+    Seed number:  
+    Bug:  
 
+* Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 
+## Patch Notes
 
-[Ver 1.93 ÆĞÄ¡³ëÆ®]
+### V1.94 Patch Notes
 
-  -·¹¾î ¹× ºñÁß ¹ë·±½º
- ¡ÜThe Compass, Treasure Map ·¹¾î ¾ÆÀÌÅÛ Ãß°¡
- ¡ÜMom's Knife ·¹¾î ¾ÆÀÌÅÛ ÇØÁ¦
+#### ìºë¦­í„° ë°¸ëŸ°ìŠ¤
+* Corruption : `Left Hand` ì¶”ê°€
+* Dope : `Rotten Baby` ì œê±°
+* The Masked : `Rubber Cement` ì¶”ê°€ `Magic Mush`, `Curved Horn` ì œê±°
 
- -±âÅ¸
- ¡Ü7½ºÅ×ÀÌÁö ÀÌÈÄ ¸ğµç µ¹ÀÌ Á¦°Å µË´Ï´Ù.
- ¡Ü¸ğµç ¸ó½ºÅÍµéÀÇ HP Max °¨¼ÒµË´Ï´Ù.
- ¡Ü¸Ş°¡»çÅº ³­ÀÌµµ°¡ °¨¼ÒµË´Ï´Ù.
+#### ì•„ì´í…œ ë°¸ëŸ°ìŠ¤
+* `Pyro`, `Skeleton Key`, `A Dollor` ëª¨ë“  í”½ì—… 99 ë³€ê²½
+* `Book Of Shadow` ì¿¨íƒ€ì„ 4 ë³€ê²½
+* `Dead Bird` ë°ë¯¸ì§€ 40 ë³€ê²½
 
+#### ë ˆì–´ ë° ë¹„ì¤‘ ë°¸ëŸ°ìŠ¤
+* `Black Candle`, `Starter Dack`, `Mom's Knife` ë ˆì–´ ì•„ì´í…œ ì¶”ê°€
+* `Bloody Lust` ë ˆì–´ ì•„ì´í…œ í•´ì œ
 
-[Ver 1.92 ÆĞÄ¡³ëÆ®]
+#### ë°°ì—´ ë°¸ëŸ°ìŠ¤
+* ë¹¨ê°„ ìƒì : `Black Candle`, `Pandora Box` ì¶”ê°€
+* ì•…ë§ˆë°© : `Cube Of Meat`, `Lokie Horn`, `Pandora Box` ì¶”ê°€
+* ë³´ìŠ¤ë°© : `Cube Of Meat`, `Ball Of Band` ì¶”ê°€
+* í™©ê¸ˆë°© : `Cube Of Meat`, `Ball Of Band`, `Ceremonial Robes`, `The Mark`, `The Fact` ì¶”ê°€
+* ì²œì‚¬ë°© : `Mom's Eye`, `Dad Key`, `Hive Mind`, `Pyro`, `Skeleton Key`, `A Dollor`, `Pandora Box` ì¶”ê°€
 
- -Ä³¸¯ÅÍ ¹ë·±½º
- ¡Ü°øÅë : ¸ğµç Ä³¸¯ÅÍ +3.0 ¼Ò¿ï ÇÏÆ® Ãß°¡
 
- -·¹¾î ¹× ºñÁß ¹ë·±½º
- ¡ÜBlack Card, Sad Bombs, BFFs ·¹¾î ¾ÆÀÌÅÛ Ãß°¡
+### V1.93 Patch Notes
 
- -±âÅ¸
- ¡Ü¼º´ç, Áö¿Á, Ã¼½ºÆ®, ´ÙÅ©·ëÀÇ ³­ÀÌµµ°¡ ´ëÆø »óÇâµË´Ï´Ù.
- ¡ÜÃ¼½ºÆ®, ´ÙÅ©·ëÀÇ ¹æ ±¸Á¶°¡ º¯°æµÇ¸ç ±âº» º¸»óÀÌ Áõ°¡µË´Ï´Ù.
- ¡Ü8½ºÅ×ÀÌÁö ¾Ç¸¶ / Ãµ»ç¹æ Æ÷Å»·ë ³­ÀÌµµ°¡ »óÇâµË´Ï´Ù.
- ¡Üºí·¢¸¶ÄÏ ±¸Á¶ ¹× º¸»óÀÌ º¯°æµË´Ï´Ù.
- ¡ÜÈ²±İ»óÀÚ¹æ ±¸Á¶ ¹× º¸»óÀÌ º¯°æµÇ¸ç ¸ó½ºÅÍ°¡ µîÀåµË´Ï´Ù.
- ¡ÜÆĞÅ°Áö·ëÀÇ ¹æ ºñÁßÀÌ ¸ğµÎ µ¿ÀÏÇÏ°Ô º¯°æµË´Ï´Ù.
- ¡Üºñ¹Ğ¹æ¿¡ ÀÏºÎ ¿ÀºêÁ§Æ®°¡ º¯°æµÇ¸ç ºñ¹Ğ¹æ ÀÔÀåÀÌ °£ÇæÀûÀ¸·Î °ÔÀÓÀÌ Á¾·áµÇ´ø Çö»óÀÌ ¼öÁ¤µË´Ï´Ù.
- ¡Ü¸ğµç »óÁ¡¹æ ±¸Á¶¿¡ ±âº» ¾×Æ¼ºê / ÆĞ½Ãºê 1º¸»óÀÌ Ãß°¡µË´Ï´Ù.
- ¡ÜÈñ»ı¹æ ±¸Á¶Áß ÁöÇÏ½Ç·Î ¿¬°áµÇ´Â ¹æ±¸Á¶ µîÀå È®·üÀÌ °¨¼ÒµË´Ï´Ù.
- ¡Ü½ºÅ¸Æ®·ë ¿ÀºêÁ§Æ® ±âº» º¸»óÀÌ º¯°æµË´Ï´Ù.
+#### ë ˆì–´ ë° ë¹„ì¤‘ ë°¸ëŸ°ìŠ¤
+* `The Compass`, `Treasure Map` ë ˆì–´ ì•„ì´í…œ ì¶”ê°€
+* `Mom's Knife` ë ˆì–´ ì•„ì´í…œ í•´ì œ
 
-[Ver 1.9 ÆĞÄ¡³ëÆ®]
- -Ä³¸¯ÅÍ ¹ë·±½º
- ¡ÜDope : Bffs Á¦°Å
- ¡ÜEsper : 20/20 Á¦°Å
- ¡ÜSulfer : Hive Mide Ãß°¡ Brimstone Á¦°Å
+#### ê¸°íƒ€
+* 7ìŠ¤í…Œì´ì§€ ì´í›„ ëª¨ë“  ëŒì´ ì œê±° ë©ë‹ˆë‹¤.
+* ëª¨ë“  ëª¬ìŠ¤í„°ë“¤ì˜ HP Max ê°ì†Œë©ë‹ˆë‹¤.
+* ë©”ê°€ì‚¬íƒ„ ë‚œì´ë„ê°€ ê°ì†Œë©ë‹ˆë‹¤.
 
- -¾ÆÀÌÅÛ ¹ë·±½º
- ¡ÜForever Alone µ¥¹ÌÁö 3.5 -> 7 º¯°æµË´Ï´Ù.
- ¡ÜDistant Admiration µ¥¹ÌÁö 5 -> 10 º¯°æµË´Ï´Ù.
 
- -·¹¾î ¹× ºñÁß ¹ë·±½º
- ¡ÜLost Contact, Cupid Arrow, Sagittarius ·¹¾î ¾ÆÀÌÅÛ Ãß°¡
- ¡ÜWe Need To Go Deeper!, Brimstone ·¹¾î ¾ÆÀÌÅÛ ÇØÁ¦
+### V1.92 Patch Notes
 
- -¹è¿­ ¹ë·±½º
- ¡Ü¾Ç¸¶¹æ : Match Book, Iron Bar Ãß°¡
- ¡Ü»¡»ó : Whore of Babylon Ãß°¡ Cricket Body Á¦°Å
- ¡ÜÃµ»ç¹æ : Rubber Cement, Cricket Body, Parasite, Sacred Heart, Spoon Bender Ãß°¡ ¸ğµç ±¸ÇÇ ÆÄÃ÷ Á¦°Å
+#### ìºë¦­í„° ë°¸ëŸ°ìŠ¤
+* ê³µí†µ : ëª¨ë“  ìºë¦­í„° +3.0 ì†Œìš¸ í•˜íŠ¸ ì¶”ê°€
 
- -±âÅ¸
- ¡Ü7, 8 ½ºÅ×ÀÌÁö ¹æ ³­ÀÌµµ°¡ ´ëÆø »ó½ÂµË´Ï´Ù.
- 
+#### ë ˆì–´ ë° ë¹„ì¤‘ ë°¸ëŸ°ìŠ¤
+* `Black Card`, `Sad Bombs`, `BFFs` ë ˆì–´ ì•„ì´í…œ ì¶”ê°€
 
+#### ê¸°íƒ€
+* ì„±ë‹¹, ì§€ì˜¥, ì²´ìŠ¤íŠ¸, ë‹¤í¬ë£¸ì˜ ë‚œì´ë„ê°€ ëŒ€í­ ìƒí–¥ë©ë‹ˆë‹¤.
+* ì²´ìŠ¤íŠ¸, ë‹¤í¬ë£¸ì˜ ë°© êµ¬ì¡°ê°€ ë³€ê²½ë˜ë©° ê¸°ë³¸ ë³´ìƒì´ ì¦ê°€ë©ë‹ˆë‹¤.
+* 8ìŠ¤í…Œì´ì§€ ì•…ë§ˆ / ì²œì‚¬ë°© í¬íƒˆë£¸ ë‚œì´ë„ê°€ ìƒí–¥ë©ë‹ˆë‹¤.
+* ë¸”ë™ë§ˆì¼“ êµ¬ì¡° ë° ë³´ìƒì´ ë³€ê²½ë©ë‹ˆë‹¤.
+* í™©ê¸ˆìƒìë°© êµ¬ì¡° ë° ë³´ìƒì´ ë³€ê²½ë˜ë©° ëª¬ìŠ¤í„°ê°€ ë“±ì¥ë©ë‹ˆë‹¤.
+* íŒ¨í‚¤ì§€ë£¸ì˜ ë°© ë¹„ì¤‘ì´ ëª¨ë‘ ë™ì¼í•˜ê²Œ ë³€ê²½ë©ë‹ˆë‹¤.
+* ë¹„ë°€ë°©ì— ì¼ë¶€ ì˜¤ë¸Œì íŠ¸ê°€ ë³€ê²½ë˜ë©° ë¹„ë°€ë°© ì…ì¥ì´ ê°„í—ì ìœ¼ë¡œ ê²Œì„ì´ ì¢…ë£Œë˜ë˜ í˜„ìƒì´ ìˆ˜ì •ë©ë‹ˆë‹¤.
+* ëª¨ë“  ìƒì ë°© êµ¬ì¡°ì— ê¸°ë³¸ ì•¡í‹°ë¸Œ / íŒ¨ì‹œë¸Œ 1ë³´ìƒì´ ì¶”ê°€ë©ë‹ˆë‹¤.
+* í¬ìƒë°© êµ¬ì¡°ì¤‘ ì§€í•˜ì‹¤ë¡œ ì—°ê²°ë˜ëŠ” ë°©êµ¬ì¡° ë“±ì¥ í™•ë¥ ì´ ê°ì†Œë©ë‹ˆë‹¤.
+* ìŠ¤íƒ€íŠ¸ë£¸ ì˜¤ë¸Œì íŠ¸ ê¸°ë³¸ ë³´ìƒì´ ë³€ê²½ë©ë‹ˆë‹¤.
 
-[Ver 1.8 ÆĞÄ¡³ëÆ®]
- -Ä³¸¯ÅÍ ¹ë·±½º
- ¡Ü°øÅë : Screw Ãß°¡
- ¡ÜJoker : Blank Card Ãß°¡
- ¡ÜEsper : Hive Mind Ãß°¡
- ¡ÜSulfer : Pentagram, Brimstone Ãß°¡
- ¡ÜParasite : Smart Fly, Dead Bird Ãß°¡
- 
 
- -¾ÆÀÌÅÛ ¹ë·±½º
- ¡ÜBlack Card ÄğÅ¸ÀÓ 8 º¯°æµË´Ï´Ù.
- ¡ÜOld Band ¼Ò¿ï 3 º¯°æµË´Ï´Ù.
- ¡ÜSmart Fly µ¥¹ÌÁö 1.5 -> 4.5 º¯°æµË´Ï´Ù.
- ¡ÜDead Bird µ¥¹ÌÁö 3 -> 30 º¯°æµË´Ï´Ù.
- ¡ÜBig Fan µ¥¹ÌÁö 3 -> 15 º¯°æµË´Ï´Ù.
- ¡ÜGuardian Angel µ¥¹ÌÁö 20 -> 40 º¯°æµË´Ï´Ù.
- ¡ÜSacrificial Dagger µ¥¹ÌÁö 15 -> 30
+### V1.9 Patch Notes
 
- -·¹¾î ¹× ºñÁß ¹ë·±½º
- ¡ÜContract from Below, Humbleing Bundle, The Polaroid, The Negative ·¹¾î ¾ÆÀÌÅÛ Ãß°¡
- ¡ÜIpecac, Epic Fetus, Dry Baby ·¹¾î ¾ÆÀÌÅÛ ÇØÁ¦
+#### ìºë¦­í„° ë°¸ëŸ°ìŠ¤
+* Dope : `Bffs` ì œê±°
+* Esper : `20/20` ì œê±°
+* Sulfer : `Hive Mide` ì¶”ê°€ `Brimstone` ì œê±°
 
- -¹è¿­ ¹ë·±½º
- ¡ÜÃµ»ç¹æ : Old Band, Speed Ball, My Reflection, Spoon Bender Ãß°¡, ¸ğµç ±¸ÇÇ 1°³¾¿ Á¦°Å (±âÁ¸ 2¹è¿­ ÀÌ¾ú½À´Ï´Ù.)
- ¡Ü¾Ç¸¶¹æ : Gimpy, Infamy, Dead Bird Ãß°¡
- ¡ÜÈ²±İ»óÀÚ : ¾Ç¸¶¹æ / Ãµ»ç¹æ / »óÁ¡ º¯°æ
+#### ì•„ì´í…œ ë°¸ëŸ°ìŠ¤
+* `Forever Alone` ë°ë¯¸ì§€ 3.5 -> 7 ë³€ê²½ë©ë‹ˆë‹¤.
+* `Distant Admiration` ë°ë¯¸ì§€ 5 -> 10 ë³€ê²½ë©ë‹ˆë‹¤.
 
- -±âÅ¸
- ¡Ü°ÔÀÓ ÃÖÀûÈ­¸¦ À§ÇØ °í¾î ¼öÄ¡°¡ ÀüºÎ Á¦°Å µË´Ï´Ù.
- ¡ÜThe Pact, The Mark, Ceremonial Robes, Old Band È¹µæ½Ã ¸ğµç HP Max Á¦°ÅµË´Ï´Ù.
- ¡Ü¸Ş°¡»çÅº 1Â÷ ÆĞÅÏ HP Max 30000 -> 10000, 2Â÷ ÆĞÅÏ 20000 -> 5000 º¯°æµË´Ï´Ù.
+#### ë ˆì–´ ë° ë¹„ì¤‘ ë°¸ëŸ°ìŠ¤
+* `Lost Contact`, `Cupid Arrow`, `Sagittarius` ë ˆì–´ ì•„ì´í…œ ì¶”ê°€
+* `We Need To Go Deeper!`, `Brimstone` ë ˆì–´ ì•„ì´í…œ í•´ì œ
 
+#### ë°°ì—´ ë°¸ëŸ°ìŠ¤
+* ì•…ë§ˆë°© : `Match Book`, `Iron Bar` ì¶”ê°€
+* ë¹¨ìƒ : `Whore of Babylon` ì¶”ê°€ `Cricket Body` ì œê±°
+* ì²œì‚¬ë°© : `Rubber Cement`, `Cricket Body`, `Parasite`, `Sacred Heart`, `Spoon Bender` ì¶”ê°€ ëª¨ë“  êµ¬í”¼ íŒŒì¸  ì œê±°
 
+#### ê¸°íƒ€
+* 7, 8 ìŠ¤í…Œì´ì§€ ë°© ë‚œì´ë„ê°€ ëŒ€í­ ìƒìŠ¹ë©ë‹ˆë‹¤.
+
+
+### V1.8 Patch Notes
+
+#### ìºë¦­í„° ë°¸ëŸ°ìŠ¤
+* ê³µí†µ : `Screw` ì¶”ê°€
+* Joker : `Blank Card` ì¶”ê°€
+* Esper : `Hive Mind` ì¶”ê°€
+* Sulfer : `Pentagram`, `Brimstone` ì¶”ê°€
+* Parasite : `Smart Fly`, `Dead Bird` ì¶”ê°€
+
+#### ì•„ì´í…œ ë°¸ëŸ°ìŠ¤
+* `Black Card` ì¿¨íƒ€ì„ 8 ë³€ê²½ë©ë‹ˆë‹¤.
+* `Old Band` ì†Œìš¸ 3 ë³€ê²½ë©ë‹ˆë‹¤.
+* `Smart Fly` ë°ë¯¸ì§€ 1.5 -> 4.5 ë³€ê²½ë©ë‹ˆë‹¤.
+* `Dead Bird` ë°ë¯¸ì§€ 3 -> 30 ë³€ê²½ë©ë‹ˆë‹¤.
+* `Big Fan` ë°ë¯¸ì§€ 3 -> 15 ë³€ê²½ë©ë‹ˆë‹¤.
+* `Guardian Angel` ë°ë¯¸ì§€ 20 -> 40 ë³€ê²½ë©ë‹ˆë‹¤.
+* `Sacrificial Dagger` ë°ë¯¸ì§€ 15 -> 30
+
+#### ë ˆì–´ ë° ë¹„ì¤‘ ë°¸ëŸ°ìŠ¤
+* `Contract from Below`, `Humbleing Bundle`, `The Polaroid`, `The Negative` ë ˆì–´ ì•„ì´í…œ ì¶”ê°€
+* `Ipecac`, `Epic Fetus`, `Dry Baby` ë ˆì–´ ì•„ì´í…œ í•´ì œ
+
+#### ë°°ì—´ ë°¸ëŸ°ìŠ¤
+* ì²œì‚¬ë°© : `Old Band`, `Speed Ball`, `My Reflection`, `Spoon Bender` ì¶”ê°€, ëª¨ë“  êµ¬í”¼ 1ê°œì”© ì œê±° (ê¸°ì¡´ 2ë°°ì—´ ì´ì—ˆìŠµë‹ˆë‹¤.)
+* ì•…ë§ˆë°© : `Gimpy`, `Infamy`, `Dead Bird` ì¶”ê°€
+* í™©ê¸ˆìƒì : ì•…ë§ˆë°© / ì²œì‚¬ë°© / ìƒì  ë³€ê²½
+
+#### ê¸°íƒ€
+* ê²Œì„ ìµœì í™”ë¥¼ ìœ„í•´ ê³ ì–´ ìˆ˜ì¹˜ê°€ ì „ë¶€ ì œê±° ë©ë‹ˆë‹¤.
+* `The Pact`, `The Mark`, `Ceremonial Robes`, `Old Band` íšë“ì‹œ ëª¨ë“  HP Max ì œê±°ë©ë‹ˆë‹¤.
+* ë©”ê°€ì‚¬íƒ„ 1ì°¨ íŒ¨í„´ HP Max 30000 -> 10000, 2ì°¨ íŒ¨í„´ 20000 -> 5000 ë³€ê²½ë©ë‹ˆë‹¤.
+
+
+### V1.7 Patch Notes
+
+#### ìºë¦­í„° ë°¸ëŸ°ìŠ¤
+* Esper : `20/20`, `Magic Mush`, `Lord Of Fit` ì¶”ê°€
+* Sulfer : `Crack The Sky`, `Mom's Wig`, `The Common Cold` ì¶”ê°€
+
+#### ì•„ì´í…œ ë°¸ëŸ°ìŠ¤
+* `The D6` ì¿¨íƒ€ì„ 6 ë³€ê²½ë©ë‹ˆë‹¤.
+
+#### ë ˆì–´ ë° ë¹„ì¤‘ ë°¸ëŸ°ìŠ¤
+* `Cricket's Body`, `Rubber Cement`, `Holy Mantle`, `Parasite` ë ˆì–´ ì•„ì´í…œ ì¶”ê°€
+* `Cancer` ë¹„ì¤‘ 0.6 -> 0.3 ë³€ê²½
+
+#### ë°°ì—´ ë°¸ëŸ°ìŠ¤
+* ì²œì‚¬ë°© : `Wire Coat hanger`, `Torn Photo`, `Roid Rage` ì¶”ê°€ `Monstros Tooth`, `Little C.H.A.D`, `PHD` ì œê±°
+* ì•…ë§ˆë°© : `Steven`, `Growth Hormones`, `Synthoil` ì¶”ê°€ `Virus`, `Anemic`, `The Common Cold` ì œê±°
+
+#### ê¸°íƒ€
+* ë¹„ë°€ë°©ì—ì„œ íŒ…ê¸°ë˜ í˜„ìƒ ìˆ˜ì •
+* ì „íˆ¬ë°© / í”¼ì¹¼ë°© ê¸°ë³¸ ë³´ìƒì— ë¹¨ê°„ ìƒì 2ê°œê°€ ì¶”ê°€ë©ë‹ˆë‹¤.
+* ì§„í–‰ì´ ë¶ˆê°€ëŠ¥í•œ ë³´ìŠ¤ë°©ì´ ìˆë˜ í˜„ìƒ ìˆ˜ì •
+* 8ìŠ¤í…Œì´ì§€ ì•…ë§ˆë°© / ì²œì‚¬ë°© í¬íƒˆë£¸ ë‚œì´ë„ê°€ ëŒ€í­ ì¦ê°€ë˜ë©° ë³´ìƒì´ ê°ì†Œë©ë‹ˆë‹¤.
+* `Whore of Babylon` íšë“ì‹œ ëª¨ë“  í”¼ë§¥ì´ ì¦ë°œë˜ë©° +3.5 ì†Œìš¸í•˜íŠ¸ê°€ ì¶”ê°€ë©ë‹ˆë‹¤.
+* ì¼ë°˜ ëª¬ìŠ¤í„°ë“¤ì˜ HP Max ì•½ 100% ì¦ê°€ë©ë‹ˆë‹¤.
+* ë³´ìŠ¤ ëª¬ìŠ¤í„°ë“¤ì˜ HP Max ì•½ 10% ì¦ê°€ë©ë‹ˆë‹¤.
+* ë©”ê°€ì‚¬íƒ„ 1ì°¨ íŒ¨í„´ HP Max 25000 -> 55000, 2ì°¨ íŒ¨í„´ 30000 -> 10000 ë³€ê²½ë©ë‹ˆë‹¤.
+
+
+### V1.6 Patch Notes
+
+#### ìºë¦­í„° ë°¸ëŸ°ìŠ¤
+* ê³µí†µ : ëª¨ë“  ìºë¦­í„°ë“¤ì˜ ì†Œìš¸ í•˜íŠ¸ê°€ +1 ì¦ê°€ë©ë‹ˆë‹¤.
+
+#### ì•„ì´í…œ ë°¸ëŸ°ìŠ¤
+* `Book Of Shadows`, `Book of Revelations`, `Satanic Bible`, `The Nail` ì¿¨íƒ€ì„ 5 ë³€ê²½ë©ë‹ˆë‹¤.
+
+
+#### ë ˆì–´ ë° ë¹„ì¤‘ ë°¸ëŸ°ìŠ¤
+* `Book of Revelations`, `Satanic Bible`, `The Nail` ë ˆì–´ ì•„ì´í…œ ì¶”ê°€
+* `Proptosis`, `Holy Mantle`, `Infestation`, `The Mulligan`, `Cricket's Body`, `Rubber Cement` ë ˆì–´ ì•„ì´í…œ í•´ì œ
+
+#### ê¸°íƒ€
+* 8ìŠ¤í…Œì´ì§€ ì•…ë§ˆ / ì²œì‚¬ í¬íƒˆë£¸ í‚¤í”¼ìŠ¤ ë³´ìƒì´ ì œê±°ë˜ë©° ë°© ë‚œì´ë„ê°€ ì¦ê°€ë©ë‹ˆë‹¤.
+* ë©”ê°€ì‚¬íƒ„ ë‚œì´ë„ê°€ ëŒ€í­ ì¦ê°€ë©ë‹ˆë‹¤.
+* ì¼ë°˜ ëª¬ìŠ¤í„°ì˜ Hp Max í•˜ë½ë©ë‹ˆë‹¤. (ê¸°ì¡´ ê°“ëª¨ë“œ ë³´ë‹¤ ë™ì¼í•´ì§‘ë‹ˆë‹¤.)
+* ì²´ìŠ¤íŠ¸ ìŠ¤í…Œì´ì§€ ìŠ¤í°ìœ„ì¹˜ì— `Rune Of Algiz` x 1 ì¶”ê°€ë©ë‹ˆë‹¤.
+* ì•…ë§ˆë°©, ì²œì‚¬ë°©, ë‹¬ë°©ì˜ ê¸°ë³¸ ë³´ìƒì´ ì¶”ê°€ë©ë‹ˆë‹¤.
+
+
+### V1.5 Patch Notes
+
+#### ìºë¦­í„° ë°¸ëŸ°ìŠ¤
+* Corruption : `LiL Brimstone` ì¶”ê°€ `Demon's Tail` ì‚­ì œë©ë‹ˆë‹¤.
+* Dope : `Growth Hormones`, `Speed Ball`, `Synthoil`, `Roid Rage` ì¶”ê°€ë©ë‹ˆë‹¤.
+* Seller : `The D6`, `A Quarter` ì¶”ê°€ë©ë‹ˆë‹¤.
+* Parasite : `Push Pin` ì¶”ê°€ë©ë‹ˆë‹¤.
+* Esper : `Cricket's Body` ì¶”ê°€ë©ë‹ˆë‹¤.
+* Sulfer : `Eve's Mascara` ì¶”ê°€ë©ë‹ˆë‹¤.
+* Belial : `The Mulligan` ì¶”ê°€ë©ë‹ˆë‹¤.
+* Night Mare : `Pentagram` ì¶”ê°€ë©ë‹ˆë‹¤.
+
+#### ë°°ì—´ ë°¸ëŸ°ìŠ¤
+* ë³´ìŠ¤ë°© : `Humbleing Bundle` ì œê±°
+* ìƒì  : `Remote Detonator`, `Humbleing Bundle` ì œê±°
+* ì²œì‚¬ë°© : `Contract From Below`, `Humbleing Bundle`, `Crack The Sky`, `Lemon Mishap`, `Dead Cat`, `Polyphemus`, `The Polaroid`, `Book Of Shadows`, `Rosary`, `Ankh`, `Cricket's Body`, `The Parasite` ì¶”ê°€
+* ì•…ë§ˆë°© : `The Negative` ì¶”ê°€ `The D6`, `The Parasite`, `Cricket's Body` ì œê±°
+* í™©ê¸ˆë°© : `Crack The Sky`, `Lemon Mishap` ì¶”ê°€
+* í™©ê¸ˆìƒì : `Celtic Cross`, `Cancer`, `VIRGO`, `The Parasite`, `Cricket's Body` ì¶”ê°€
+* ë¹¨ê°„ìƒì : `Cricket's Body` ì œê±°
+
+#### ê¸°íƒ€
+* ë³´ìŠ¤ ëª¬ìŠ¤í„°ë¥¼ ì œì™¸í•œ ëª¨ë“  ëª¬ìŠ¤í„°ë“¤ì˜ HP Max 20%~30% ì¦ê°€ë©ë‹ˆë‹¤. (1.4 ë²„ì „ì—ì„œëŠ” ì˜ë„ë˜ì§€ ì•Šê²Œ 100%~200% ì¦ê°€ë˜ì–´ìˆë˜ ëª¬ìŠ¤í„°ë“¤ì„ ì›ë˜ ì˜ë„ëœ ë°©í–¥ìœ¼ë¡œ ë˜ëŒë¦¬ëŠ” íŒ¨ì¹˜ì…ë‹ˆë‹¤.)
+* ë°© ì¢…ë¥˜ ìƒê´€ì—†ì´ ì•…ë§ˆë°© ë° ë¸”ë™ ë§ˆì¼“ì—ì„œ ê±°ë˜ê°€ ë¶ˆê°€ëŠ¥í•©ë‹ˆë‹¤.
+* ì•„ì¼€ì´ë“œë°©ì´ ì „ì²´ì ìœ¼ë¡œ ë³€ê²½ë©ë‹ˆë‹¤.
+* ì „íˆ¬ë°© ë“±ì¥í•˜ëŠ” ëª¬ìŠ¤í„°ì˜ ì–‘ì´ 2ë°° ëŠ˜ì–´ë‚©ë‹ˆë‹¤.(í”¼ì¹¼ë°©ì€ ê¸°ì¡´ ë‚œì´ë„ ìœ ì§€)
+* ë¹„ë°€ë°©, ì¼ê¸‰ë¹„ë°€ë°©ì˜ ë³´ìƒì´ ì¦ê°€ë©ë‹ˆë‹¤.
+* ìŠ¤íƒ€íŠ¸ë£¸ ê¸°ë³¸ ì•„ì´í…œì´ ì¶”ê°€ë©ë‹ˆë‹¤.
+* ì•…ë§ˆë°©, ì²œì‚¬ë°© êµ¬ì¡°ê°€ ëŒ€í­ ë³€ê²½ë˜ë©° 8ìŠ¤í…Œì´ì§€ í¬íƒˆë£¸ì´ ë†’ì€ ë‚œì´ë„ì˜ ë°©ìœ¼ë¡œ ë³€ê²½ë˜ì—ˆìœ¼ë©° ê·¸ì—ë”°ë¼ í‚¤í”¼ìŠ¤ ë°© ë³´ìƒ ì™¸ì—ë„ í‚¤í”¼ìŠ¤1,2 íšë“í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.
+* íŒ¨í‚¤ì§€ë£¸ì—ì„œ ë” ì´ìƒ ëª¬ìŠ¤í„°ê°€ ë“±ì¥í•˜ì§€ ì•Šìœ¼ë©° ëª¨ë“  ë°©ì´ ë†’ì€ ë³´ìƒì„ ì§€ê¸‰í•©ë‹ˆë‹¤.
+* `Whore of Babylon` íšë“ì‹œ ëª¨ë“  í”¼ë§¥ì´ ì¦ë°œë˜ë©° +3.5 ì†Œìš¸í•˜íŠ¸ê°€ ì¶”ê°€ë©ë‹ˆë‹¤.
+* `VIRGO`, `Celtic Cross` ë¬´ì ì‹œê°„ì´ 5ì´ˆë¡œ ê³ ì •ë©ë‹ˆë‹¤.
+
+
+### V1.4 Patch Notes
+
+#### ê¸°íƒ€
+* ëª¨ë“  ë³´ìŠ¤ëª¬ìŠ¤í„°ë“¤ì˜ HP Max ìˆ˜ì¹˜ê°€ 10% ì¦ê°€ë©ë‹ˆë‹¤.
+* ì„±ë‹¹, ì§€ì˜¥, ë‹¤í¬ë£¸, ì²´ìŠ¤íŠ¸ì˜ ë³´ìŠ¤ë°© ë‚œì´ë„ê°€ ìƒí–¥ë©ë‹ˆë‹¤.
+
+## Item
+
+###í™©ê¸ˆë°© ë°°ì—´
 
-
-
-
-
-
-[Ver 1.7 ÆĞÄ¡³ëÆ®]
- -Ä³¸¯ÅÍ ¹ë·±½º
- ¡ÜEsper : 20/20, Magic Mush, Lord Of Fit Ãß°¡
- ¡ÜSulfer : Crack The Sky, Mom's Wig, The Common Cold Ãß°¡
-
- -¾ÆÀÌÅÛ ¹ë·±½º
- ¡ÜD6 ÄğÅ¸ÀÓ 6 º¯°æµË´Ï´Ù.
-
- -·¹¾î ¹× ºñÁß ¹ë·±½º
- ¡ÜCricket's Body, Rubber Cement, Holy Mantle, Parasite ·¹¾î ¾ÆÀÌÅÛ Ãß°¡
- ¡ÜCancer ºñÁß 0.6 -> 0.3 º¯°æ
-
- -¹è¿­ ¹ë·±½º
- ¡ÜÃµ»ç¹æ : Wire Coat hanger, Torn Photo, Roid Rage Ãß°¡ Monstros Tooth, Little C.H.A.D, PHD Á¦°Å
- ¡Ü¾Ç¸¶¹æ : Steven, Growth Hormones, Synthoil Ãß°¡ Virus, Anemic, The Common Cold Á¦°Å
-
- -±âÅ¸
- ¡Üºñ¹Ğ¹æ¿¡¼­ ÆÃ±â´ø Çö»ó ¼öÁ¤
- ¡ÜÀüÅõ¹æ / ÇÇÄ®¹æ ±âº» º¸»ó¿¡ »¡°£ »óÀÚ 2°³°¡ Ãß°¡µË´Ï´Ù.
- ¡ÜÁøÇàÀÌ ºÒ°¡´ÉÇÑ º¸½º¹æÀÌ ÀÖ´ø Çö»ó ¼öÁ¤
- ¡Ü8½ºÅ×ÀÌÁö ¾Ç¸¶¹æ / Ãµ»ç¹æ Æ÷Å»·ë ³­ÀÌµµ°¡ ´ëÆø Áõ°¡µÇ¸ç º¸»óÀÌ °¨¼ÒµË´Ï´Ù.
- ¡ÜWhore of Babylon È¹µæ½Ã ¸ğµç ÇÇ¸ÆÀÌ Áõ¹ßµÇ¸ç +3.5 ¼Ò¿ïÇÏÆ®°¡ Ãß°¡µË´Ï´Ù.
- ¡ÜÀÏ¹İ ¸ó½ºÅÍµéÀÇ HP Max ¾à 100% Áõ°¡µË´Ï´Ù.
- ¡Üº¸½º ¸ó½ºÅÍµéÀÇ HP Max ¾à 10% Áõ°¡µË´Ï´Ù.
- ¡Ü¸Ş°¡»çÅº 1Â÷ ÆĞÅÏ HP Max 25000 -> 55000, 2Â÷ ÆĞÅÏ 30000 -> 10000 º¯°æµË´Ï´Ù.
-
-
-
-
-
-
-
-[Ver 1.6 ÆĞÄ¡³ëÆ®]
- -Ä³¸¯ÅÍ ¹ë·±½º
- ¡Ü°øÅë : ¸ğµç Ä³¸¯ÅÍµéÀÇ ¼Ò¿ï ÇÏÆ®°¡ +1 Áõ°¡µË´Ï´Ù.
-
- -¾ÆÀÌÅÛ ¹ë·±½º
- ¡ÜBook Of Shadows, Book of Revelations, Satanic Bible, The Nail ÄğÅ¸ÀÓ 5 º¯°æµË´Ï´Ù.
-
-
- -·¹¾î ¹× ºñÁß ¹ë·±½º
- ¡ÜBook of Revelations, Satanic Bible, The Nail ·¹¾î ¾ÆÀÌÅÛ Ãß°¡
- ¡ÜProptosis, Holy Mantle, Infestation, The Mulligan, Cricket's Body, Rubber Cement ·¹¾î ¾ÆÀÌÅÛ ÇØÁ¦
-
- -±âÅ¸
- ¡Ü8½ºÅ×ÀÌÁö ¾Ç¸¶ / Ãµ»ç Æ÷Å»·ë Å°ÇÇ½º º¸»óÀÌ Á¦°ÅµÇ¸ç ¹æ ³­ÀÌµµ°¡ Áõ°¡µË´Ï´Ù.
- ¡Ü¸Ş°¡»çÅº ³­ÀÌµµ°¡ ´ëÆø Áõ°¡µË´Ï´Ù.
- ¡ÜÀÏ¹İ ¸ó½ºÅÍÀÇ Hp Max ÇÏ¶ôµË´Ï´Ù. (±âÁ¸ °«¸ğµå º¸´Ù µ¿ÀÏÇØÁı´Ï´Ù.)
- ¡ÜÃ¼½ºÆ® ½ºÅ×ÀÌÁö ½ºÆùÀ§Ä¡¿¡ Rune Of Algiz x 1 Ãß°¡µË´Ï´Ù.
- ¡Ü¾Ç¸¶¹æ, Ãµ»ç¹æ, ´Ş¹æÀÇ ±âº» º¸»óÀÌ Ãß°¡µË´Ï´Ù.
-
-
-
-
-
-[Ver 1.5 ÆĞÄ¡³ëÆ®]
- -Ä³¸¯ÅÍ ¹ë·±½º
- ¡ÜCorruption : LiL Brimstone Ãß°¡ Demon's Tail »èÁ¦µË´Ï´Ù.
- ¡ÜDope : Growth Hormones, Speed Ball, Synthoil, Roid Rage Ãß°¡µË´Ï´Ù.
- ¡ÜSeller : The D6, A Quarter Ãß°¡µË´Ï´Ù.
- ¡ÜParasite : Push Pin Ãß°¡µË´Ï´Ù.
- ¡ÜEsper : Cricket's Body Ãß°¡µË´Ï´Ù.
- ¡ÜSulfer : Eve's Mascara Ãß°¡µË´Ï´Ù.
- ¡ÜBelial : The Mulligan Ãß°¡µË´Ï´Ù.
- ¡ÜNight Mare : Pentagram Ãß°¡µË´Ï´Ù.
-
- -¹è¿­ ¹ë·±½º
- ¡Üº¸½º¹æ : Humbleing Bundle Á¦°Å
- ¡Ü»óÁ¡ : Remote Detonator, Humbleing Bundle Á¦°Å
- ¡ÜÃµ»ç¹æ : Contract From Below, Humbleing Bundle, Crack The Sky, Lemon Mishap, Dead Cat, Polyphemus, The Polaroid, Book Of Shadows, Rosary, Ankh, Cricket's Body, The Parasite Ãß°¡
- ¡Ü¾Ç¸¶¹æ : The Negative Ãß°¡ The D6, The Parasite, Cricket's Body Á¦°Å
- ¡ÜÈ²±İ¹æ : Crack The Sky, Lemon Mishap Ãß°¡
- ¡ÜÈ²±İ»óÀÚ : Celtic Cross, Cancer, VIRGO, The Parasite, Cricket's Body Ãß°¡
- ¡Ü»¡°£»óÀÚ : Cricket's Body Á¦°Å
-
--±âÅ¸
- ¡Üº¸½º ¸ó½ºÅÍ¸¦ Á¦¿ÜÇÑ ¸ğµç ¸ó½ºÅÍµéÀÇ HP Max 20%~30% Áõ°¡µË´Ï´Ù. (1.4 ¹öÀü¿¡¼­´Â ÀÇµµµÇÁö ¾Ê°Ô 100%~200% Áõ°¡µÇ¾îÀÖ´ø ¸ó½ºÅÍµéÀ» ¿ø·¡ ÀÇµµµÈ ¹æÇâÀ¸·Î µÇµ¹¸®´Â ÆĞÄ¡ÀÔ´Ï´Ù.)
- ¡Ü¹æ Á¾·ù »ó°ü¾øÀÌ ¾Ç¸¶¹æ ¹× ºí·¢ ¸¶ÄÏ¿¡¼­ °Å·¡°¡ ºÒ°¡´ÉÇÕ´Ï´Ù.
- ¡Ü¾ÆÄÉÀÌµå¹æÀÌ ÀüÃ¼ÀûÀ¸·Î º¯°æµË´Ï´Ù.
- ¡ÜÀüÅõ¹æ µîÀåÇÏ´Â ¸ó½ºÅÍÀÇ ¾çÀÌ 2¹è ´Ã¾î³³´Ï´Ù.(ÇÇÄ®¹æÀº ±âÁ¸ ³­ÀÌµµ À¯Áö)
- ¡Üºñ¹Ğ¹æ, ÀÏ±Şºñ¹Ğ¹æÀÇ º¸»óÀÌ Áõ°¡µË´Ï´Ù.
- ¡Ü½ºÅ¸Æ®·ë ±âº» ¾ÆÀÌÅÛÀÌ Ãß°¡µË´Ï´Ù.
- ¡Ü¾Ç¸¶¹æ, Ãµ»ç¹æ ±¸Á¶°¡ ´ëÆø º¯°æµÇ¸ç 8½ºÅ×ÀÌÁö Æ÷Å»·ëÀÌ ³ôÀº ³­ÀÌµµÀÇ ¹æÀ¸·Î º¯°æµÇ¾úÀ¸¸ç ±×¿¡µû¶ó Å°ÇÇ½º ¹æ º¸»ó ¿Ü¿¡µµ Å°ÇÇ½º1,2 È¹µæÇÒ ¼ö ÀÖ½À´Ï´Ù.
- ¡ÜÆĞÅ°Áö·ë¿¡¼­ ´õ ÀÌ»ó ¸ó½ºÅÍ°¡ µîÀåÇÏÁö ¾ÊÀ¸¸ç ¸ğµç ¹æÀÌ ³ôÀº º¸»óÀ» Áö±ŞÇÕ´Ï´Ù.
- ¡ÜWhore of Babylon È¹µæ½Ã ¸ğµç ÇÇ¸ÆÀÌ Áõ¹ßµÇ¸ç +3.5 ¼Ò¿ïÇÏÆ®°¡ Ãß°¡µË´Ï´Ù.
- ¡ÜVIRGO, Celtic Cross ¹«Àû½Ã°£ÀÌ 5ÃÊ·Î °íÁ¤µË´Ï´Ù.
-
- 
-
-[Ver 1.4 ÆĞÄ¡³ëÆ®]
- ¡Ü¸ğµç º¸½º¸ó½ºÅÍµéÀÇ HP Max ¼öÄ¡°¡ 10% Áõ°¡µË´Ï´Ù.
- ¡Ü¼º´ç, Áö¿Á, ´ÙÅ©·ë, Ã¼½ºÆ®ÀÇ º¸½º¹æ ³­ÀÌµµ°¡ »óÇâµË´Ï´Ù.
-
-
-
-
-
-
-
-
-È²±İ¹æ ¹è¿­
 - Whore of Babylon
 - The Book of Belial
 - Godheart
@@ -348,7 +347,7 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Odd Mushroom (lage)
 - Monster Manual
 - Dead Sea Scrolls
-- Bobby - Bomb
+- Bobby Bomb
 - Forget Me Now
 - Forever alone
 - Bucket of Lard
@@ -493,7 +492,9 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Chocolate Milk
 - Proptosis
 
-»óÁ¡ ¹è¿­
+
+### ìƒì  ë°°ì—´
+
 - Infestation 2
 - 20/20
 - 9 Volt
@@ -586,7 +587,9 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Treasure Map (2)
 - X-Ray Vision
 
-º¸½º¹æ ¹è¿­
+
+### ë³´ìŠ¤ë°© ë°°ì—´
+
 - Stigmata
 - Capricorn
 - Maggy's Bow
@@ -633,7 +636,9 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Chemical Peel
 - Humbleing Bundle
 
-¾Ç¸¶¹æ ¹è¿­ 
+
+### ì•…ë§ˆë°© ë°°ì—´ 
+
 - Abaddon
 - Black Candle
 - Blood Of The Martyr
@@ -695,7 +700,9 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Dead Cat x2
 - NightMara Heart
 
-Ãµ»ç¹æ ¹è¿­
+
+### ì²œì‚¬ë°© ë°°ì—´
+
 - Forever Alone
 - ???'s Only Friend
 - 20/20
@@ -762,7 +769,9 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Guppy's Hariball x2
 - Dead Cat x2
 
-½ºÆä¼È·ë ( Ã¥¹æ ) ¹è¿­
+
+### ìŠ¤í˜ì…œë£¸ ( ì±…ë°© ) ë°°ì—´
+
 - Nightmare Heart
 - Godheart
 - Chocolate Milk
@@ -809,11 +818,14 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - VIRGO
 - Gnawed Leaf
 
-È²±İ »óÀÚ ¹è¿­ 
-- ¾Ç¸¶ / Ãµ»ç / »óÁ¡¹æ ¹è¿­ÀÔ´Ï´Ù.
+
+### í™©ê¸ˆ ìƒì ë°°ì—´
+
+- ì•…ë§ˆ / ì²œì‚¬ / ìƒì ë°© ë°°ì—´ì…ë‹ˆë‹¤.
 
 
-»¡°£»óÀÚ ¹è¿­
+### ë¹¨ê°„ìƒì ë°°ì—´
+
 - Goat Head
 - Guppy's Collar
 - Guppy's Head
@@ -823,19 +835,34 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Guppy's Hairball
 - Cricket's Body
 
-´Ş¹æ ¹è¿­
-¾Ç¸¶ / Ãµ»ç ¹è¿­ÀÌ µîÀåµË´Ï´Ù.
+
+### ë‹¬ë°© ë°°ì—´
+
+ì•…ë§ˆ / ì²œì‚¬ ë°°ì—´ì´ ë“±ì¥ë©ë‹ˆë‹¤.
 
 
+### ë¹„ë°€ë°©
 
-ºñ¹Ğ¹æ : ºñÁßÀ» ¹ŞÁö ¾ÊÀ¸¸ç ·£´ı ¹è¿­ÀÌ µîÀåµË´Ï´Ù.
+ë¹„ì¤‘ì„ ë°›ì§€ ì•Šìœ¼ë©° ëœë¤ ë°°ì—´ì´ ë“±ì¥ë©ë‹ˆë‹¤.
 
 
-°ÅÁö : »óÁ¡¹è¿­ÀÔ´Ï´Ù.
-¾Ç¸¶°ÅÁö : ¾ÇÃµ»ç ¹è¿­ÀÔ´Ï´Ù.
-¿­¼è°ÅÁö : ½ºÆä¼È¹æ ¹è¿­ÀÔ´Ï´Ù.
+### ê±°ì§€
 
-·¹¾î ¸ñ·Ï
+ìƒì ë°°ì—´ì…ë‹ˆë‹¤.
+
+
+### ì•…ë§ˆê±°ì§€
+
+ì•…ë§ˆ / ì²œì‚¬ ë°°ì—´ì…ë‹ˆë‹¤.
+
+
+### ì—´ì‡ ê±°ì§€
+
+ìŠ¤í˜ì…œë°© ë°°ì—´ì…ë‹ˆë‹¤.
+
+
+### ë ˆì–´ ëª©ë¡
+
 - Book of Revelations
 - Satanic Bible
 - The Nail
@@ -880,68 +907,70 @@ Feel free to ask extra questions to iwt2hw@naver.com or kakatalk id iwt2hw.
 - Mom's Knife
 - Starter Dack
 
-<¾Ë¾à°ú Ä«µå º¯°æ ¸ñ·Ï>
 
- The Fool            ->  Act 0     - The Demon's Trick
+### ì•Œì•½ê³¼ ì¹´ë“œ ë³€ê²½ ëª©ë¡
 
- The Magician        ->  Act I     - Magnet of Pain
-
- The High Priestess  ->  Act II    - Crushed
-
- The Empress         ->  Act III   - Revenged
-
- The Emperor         ->  Act IV    - The Fight
-
- The Hierophant      ->  Act V     - Life Aid
-
- The Lovers          ->  Act VI    - Feeling Loved
-
- The Chariot         ->  Act VII   - Into the Sunset
-
- The Justice         ->  Act VIII  - Breakfast
-
- The Hermit          ->  Act IX    - The Merchant
-
- Wheel of Fortune    ->  Act X     - The Deal of Luck
-
- Strength            ->  Act XI    - The Inner Shadow
-
- The Hanged Man      ->  Act XII   - Failure
-
- Death               ->  Act XIII  - Tears
-
- Temperance          ->  Act XIV   - Vault of Hearts
-
- The Devil           ->  Act XV    - Void of Love
-
- The Tower           ->  Act XVI   - Torn Apart
-
- The Stars           ->  Act XVII  - Far, Far Away
-
- The Moon            ->  Act XVIII - The Lost
-
- The Sun             ->  Act XIX   - New Beginning
-
- Judgement           ->  Act XX    - The Judge
-
- The World           ->  Act XXI   - Global Impact
-
- Two Of Clubs        ->  Act XXII  - Boom!
-
- Two Of Diamonds     ->  Act XXIII - Gems
-
- Two Of Spades       ->  XXIV      - Unlocked Doors
-
- Two Of Hearts       ->  XXV       - Health comes first
-
- The Joker           ->  Corrupted Act
-
- Chaos Card          ->  Act XXCI  - The Chaos
-
- Credit Card         ->  Act XXVII - The Greed
-
- Rules Card          ->  Act XXVIII- Ruled Out
-
- CardAgainstHumanity ->  Act XXIX  - I'm finished
-
- Suicided King       ->  Act XXX   - The Finale
+- **The Fool**            
+  ->  Act 0     The Demon's Trick
+- **The Magician**        
+  ->  Act I     Magnet of Pain
+- **The High Priestess**  
+  ->  Act II    Crushed
+- **The Empress**         
+  ->  Act III   Revenged
+- **The Emperor**         
+  ->  Act IV    The Fight
+- **The Hierophant**      
+  ->  Act V     Life Aid
+- **The Lovers**          
+  ->  Act VI    Feeling Loved
+- **The Chariot**         
+  ->  Act VII   Into the Sunset
+- **The Justice**         
+  ->  Act VIII  Breakfast
+- **The Hermit**          
+  ->  Act IX    The Merchant
+- **Wheel of Fortune**    
+  ->  Act X     The Deal of Luck
+- **Strength**            
+  ->  Act XI    The Inner Shadow
+- **The Hanged Man**      
+  ->  Act XII   Failure
+- **Death**               
+  ->  Act XIII  Tears
+- **Temperance**          
+  ->  Act XIV   Vault of Hearts
+- **The Devil**           
+  ->  Act XV    Void of Love
+- **The Tower**           
+  ->  Act XVI   Torn Apart
+- **The Stars**           
+  ->  Act XVII  Far, Far Away
+- **The Moon**            
+  ->  Act XVIII The Lost
+- **The Sun**             
+  ->  Act XIX   New Beginning
+- **Judgement**           
+  ->  Act XX    The Judge
+- **The World**           
+  ->  Act XXI   Global Impact
+- **Two Of Clubs**        
+  ->  Act XXII  Boom!
+- **Two Of Diamonds**     
+  ->  Act XXIII Gems
+- **Two Of Spades**       
+  ->  XXIV      Unlocked Doors
+- **Two Of Hearts**       
+  ->  XXV       Health comes first
+- **The Joker**           
+  ->  Corrupted Act
+- **Chaos Card**          
+  ->  Act XXCI  The Chaos
+- **Credit Card**         
+  ->  Act XXVII The Greed
+- **Rules Card**          
+  ->  Act XXVIIIRuled Out
+- **CardAgainstHumanity**  
+  ->  Act XXIX  I'm finished
+- **Suicided King**       
+  ->  Act XXX   The Finale
